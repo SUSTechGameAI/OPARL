@@ -1,0 +1,20 @@
+n_envs=50
+max_seg_num=50
+total_steps=1000000
+n_steps=100
+n_epochs=50
+batch_size=100
+gamma=0.99
+gsde_sample_freq=20
+device=cuda:0
+log_itv=1
+--------------------------------------------------
+Reward Function {
+	1 * Fun(
+		novelty_metric=TilePttrKL2,
+		n=3,
+		lb=0.26,
+		ub=0.94,
+		delta=14
+	)
+}

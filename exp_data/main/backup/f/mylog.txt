@@ -1,0 +1,2400 @@
+----------------Total steps: 2500----------------
+Time passed: 27s
+EpLength: 50.00 +- 0.00
+Fun: -8.38 +- 6.34
+TotalScore: -8.38 +- 6.34
+
+----------------Total steps: 5000----------------
+Time passed: 54s
+EpLength: 50.00 +- 0.00
+Fun: -8.03 +- 6.75
+TotalScore: -8.03 +- 6.75
+
+----------------Total steps: 7500----------------
+Time passed: 96s
+EpLength: 50.00 +- 0.00
+Fun: -6.30 +- 6.33
+TotalScore: -6.30 +- 6.33
+
+----------------Total steps: 10000----------------
+Time passed: 123s
+EpLength: 50.00 +- 0.00
+Fun: -6.40 +- 6.64
+TotalScore: -6.40 +- 6.64
+
+----------------Total steps: 12500----------------
+Time passed: 165s
+EpLength: 50.00 +- 0.00
+Fun: -7.95 +- 8.35
+TotalScore: -7.95 +- 8.35
+
+----------------Total steps: 15000----------------
+Time passed: 192s
+EpLength: 50.00 +- 0.00
+Fun: -5.78 +- 6.92
+TotalScore: -5.78 +- 6.92
+
+----------------Total steps: 17500----------------
+Time passed: 233s
+EpLength: 50.00 +- 0.00
+Fun: -7.65 +- 7.85
+TotalScore: -7.65 +- 7.85
+
+----------------Total steps: 20000----------------
+Time passed: 261s
+EpLength: 50.00 +- 0.00
+Fun: -7.14 +- 8.94
+TotalScore: -7.14 +- 8.94
+
+----------------Total steps: 22500----------------
+Time passed: 302s
+EpLength: 50.00 +- 0.00
+Fun: -5.30 +- 6.07
+TotalScore: -5.30 +- 6.07
+
+----------------Total steps: 25000----------------
+Time passed: 329s
+EpLength: 50.00 +- 0.00
+Fun: -7.40 +- 8.64
+TotalScore: -7.40 +- 8.64
+
+----------------Total steps: 27500----------------
+Time passed: 371s
+EpLength: 50.00 +- 0.00
+Fun: -6.93 +- 6.87
+TotalScore: -6.93 +- 6.87
+
+----------------Total steps: 30000----------------
+Time passed: 398s
+EpLength: 50.00 +- 0.00
+Fun: -6.26 +- 6.24
+TotalScore: -6.26 +- 6.24
+
+----------------Total steps: 32500----------------
+Time passed: 441s
+EpLength: 50.00 +- 0.00
+Fun: -4.29 +- 4.27
+TotalScore: -4.29 +- 4.27
+
+----------------Total steps: 35000----------------
+Time passed: 467s
+EpLength: 50.00 +- 0.00
+Fun: -6.05 +- 7.26
+TotalScore: -6.05 +- 7.26
+
+----------------Total steps: 37500----------------
+Time passed: 510s
+EpLength: 50.00 +- 0.00
+Fun: -4.30 +- 5.98
+TotalScore: -4.30 +- 5.98
+
+----------------Total steps: 40000----------------
+Time passed: 537s
+EpLength: 50.00 +- 0.00
+Fun: -3.83 +- 4.55
+TotalScore: -3.83 +- 4.55
+
+----------------Total steps: 42500----------------
+Time passed: 578s
+EpLength: 50.00 +- 0.00
+Fun: -3.92 +- 5.29
+TotalScore: -3.92 +- 5.29
+
+----------------Total steps: 45000----------------
+Time passed: 605s
+EpLength: 50.00 +- 0.00
+Fun: -3.46 +- 5.72
+TotalScore: -3.46 +- 5.72
+
+----------------Total steps: 47500----------------
+Time passed: 647s
+EpLength: 50.00 +- 0.00
+Fun: -3.97 +- 7.53
+TotalScore: -3.97 +- 7.53
+
+----------------Total steps: 50000----------------
+Time passed: 673s
+EpLength: 50.00 +- 0.00
+Fun: -2.77 +- 2.97
+TotalScore: -2.77 +- 2.97
+
+----------------Total steps: 52500----------------
+Time passed: 715s
+EpLength: 50.00 +- 0.00
+Fun: -2.68 +- 3.10
+TotalScore: -2.68 +- 3.10
+
+----------------Total steps: 55000----------------
+Time passed: 741s
+EpLength: 50.00 +- 0.00
+Fun: -2.73 +- 1.86
+TotalScore: -2.73 +- 1.86
+
+----------------Total steps: 57500----------------
+Time passed: 782s
+EpLength: 50.00 +- 0.00
+Fun: -2.42 +- 1.98
+TotalScore: -2.42 +- 1.98
+
+----------------Total steps: 60000----------------
+Time passed: 809s
+EpLength: 50.00 +- 0.00
+Fun: -3.65 +- 6.38
+TotalScore: -3.65 +- 6.38
+
+----------------Total steps: 62500----------------
+Time passed: 852s
+EpLength: 50.00 +- 0.00
+Fun: -2.10 +- 2.54
+TotalScore: -2.10 +- 2.54
+
+----------------Total steps: 65000----------------
+Time passed: 878s
+EpLength: 50.00 +- 0.00
+Fun: -2.43 +- 3.18
+TotalScore: -2.43 +- 3.18
+
+----------------Total steps: 67500----------------
+Time passed: 920s
+EpLength: 50.00 +- 0.00
+Fun: -2.93 +- 6.47
+TotalScore: -2.93 +- 6.47
+
+----------------Total steps: 70000----------------
+Time passed: 946s
+EpLength: 50.00 +- 0.00
+Fun: -2.35 +- 2.25
+TotalScore: -2.35 +- 2.25
+
+----------------Total steps: 72500----------------
+Time passed: 986s
+EpLength: 50.00 +- 0.00
+Fun: -2.35 +- 2.24
+TotalScore: -2.35 +- 2.24
+
+----------------Total steps: 75000----------------
+Time passed: 1012s
+EpLength: 50.00 +- 0.00
+Fun: -2.86 +- 4.90
+TotalScore: -2.86 +- 4.90
+
+----------------Total steps: 77500----------------
+Time passed: 1054s
+EpLength: 50.00 +- 0.00
+Fun: -2.89 +- 4.62
+TotalScore: -2.89 +- 4.62
+
+----------------Total steps: 80000----------------
+Time passed: 1079s
+EpLength: 50.00 +- 0.00
+Fun: -2.03 +- 1.83
+TotalScore: -2.03 +- 1.83
+
+----------------Total steps: 82500----------------
+Time passed: 1119s
+EpLength: 50.00 +- 0.00
+Fun: -2.40 +- 2.53
+TotalScore: -2.40 +- 2.53
+
+----------------Total steps: 85000----------------
+Time passed: 1144s
+EpLength: 50.00 +- 0.00
+Fun: -1.99 +- 2.87
+TotalScore: -1.99 +- 2.87
+
+----------------Total steps: 87500----------------
+Time passed: 1185s
+EpLength: 50.00 +- 0.00
+Fun: -1.41 +- 1.44
+TotalScore: -1.41 +- 1.44
+
+----------------Total steps: 90000----------------
+Time passed: 1210s
+EpLength: 50.00 +- 0.00
+Fun: -1.29 +- 0.87
+TotalScore: -1.29 +- 0.87
+
+----------------Total steps: 92500----------------
+Time passed: 1251s
+EpLength: 50.00 +- 0.00
+Fun: -1.51 +- 1.46
+TotalScore: -1.51 +- 1.46
+
+----------------Total steps: 95000----------------
+Time passed: 1276s
+EpLength: 50.00 +- 0.00
+Fun: -1.18 +- 1.01
+TotalScore: -1.18 +- 1.01
+
+----------------Total steps: 97500----------------
+Time passed: 1317s
+EpLength: 50.00 +- 0.00
+Fun: -1.41 +- 1.62
+TotalScore: -1.41 +- 1.62
+
+----------------Total steps: 100000----------------
+Time passed: 1342s
+EpLength: 50.00 +- 0.00
+Fun: -1.30 +- 0.85
+TotalScore: -1.30 +- 0.85
+
+----------------Total steps: 102500----------------
+Time passed: 1380s
+EpLength: 50.00 +- 0.00
+Fun: -0.97 +- 0.70
+TotalScore: -0.97 +- 0.70
+
+----------------Total steps: 105000----------------
+Time passed: 1405s
+EpLength: 50.00 +- 0.00
+Fun: -1.62 +- 3.55
+TotalScore: -1.62 +- 3.55
+
+----------------Total steps: 107500----------------
+Time passed: 1447s
+EpLength: 50.00 +- 0.00
+Fun: -1.48 +- 1.63
+TotalScore: -1.48 +- 1.63
+
+----------------Total steps: 110000----------------
+Time passed: 1471s
+EpLength: 50.00 +- 0.00
+Fun: -1.22 +- 1.01
+TotalScore: -1.22 +- 1.01
+
+----------------Total steps: 112500----------------
+Time passed: 1512s
+EpLength: 50.00 +- 0.00
+Fun: -1.05 +- 0.77
+TotalScore: -1.05 +- 0.77
+
+----------------Total steps: 115000----------------
+Time passed: 1537s
+EpLength: 50.00 +- 0.00
+Fun: -1.11 +- 0.90
+TotalScore: -1.11 +- 0.90
+
+----------------Total steps: 117500----------------
+Time passed: 1576s
+EpLength: 50.00 +- 0.00
+Fun: -1.34 +- 1.75
+TotalScore: -1.34 +- 1.75
+
+----------------Total steps: 120000----------------
+Time passed: 1600s
+EpLength: 50.00 +- 0.00
+Fun: -1.06 +- 1.49
+TotalScore: -1.06 +- 1.49
+
+----------------Total steps: 122500----------------
+Time passed: 1639s
+EpLength: 50.00 +- 0.00
+Fun: -0.76 +- 0.76
+TotalScore: -0.76 +- 0.76
+
+----------------Total steps: 125000----------------
+Time passed: 1664s
+EpLength: 50.00 +- 0.00
+Fun: -1.27 +- 1.66
+TotalScore: -1.27 +- 1.66
+
+----------------Total steps: 127500----------------
+Time passed: 1699s
+EpLength: 50.00 +- 0.00
+Fun: -1.19 +- 1.22
+TotalScore: -1.19 +- 1.22
+
+----------------Total steps: 130000----------------
+Time passed: 1723s
+EpLength: 50.00 +- 0.00
+Fun: -1.19 +- 1.30
+TotalScore: -1.19 +- 1.30
+
+----------------Total steps: 132500----------------
+Time passed: 1760s
+EpLength: 50.00 +- 0.00
+Fun: -0.78 +- 0.57
+TotalScore: -0.78 +- 0.57
+
+----------------Total steps: 135000----------------
+Time passed: 1784s
+EpLength: 50.00 +- 0.00
+Fun: -0.82 +- 0.78
+TotalScore: -0.82 +- 0.78
+
+----------------Total steps: 137500----------------
+Time passed: 1820s
+EpLength: 50.00 +- 0.00
+Fun: -0.94 +- 0.92
+TotalScore: -0.94 +- 0.92
+
+----------------Total steps: 140000----------------
+Time passed: 1844s
+EpLength: 50.00 +- 0.00
+Fun: -0.80 +- 0.62
+TotalScore: -0.80 +- 0.62
+
+----------------Total steps: 142500----------------
+Time passed: 1881s
+EpLength: 50.00 +- 0.00
+Fun: -0.76 +- 0.58
+TotalScore: -0.76 +- 0.58
+
+----------------Total steps: 145000----------------
+Time passed: 1905s
+EpLength: 50.00 +- 0.00
+Fun: -0.83 +- 0.83
+TotalScore: -0.83 +- 0.83
+
+----------------Total steps: 147500----------------
+Time passed: 1940s
+EpLength: 50.00 +- 0.00
+Fun: -0.74 +- 0.71
+TotalScore: -0.74 +- 0.71
+
+----------------Total steps: 150000----------------
+Time passed: 1965s
+EpLength: 50.00 +- 0.00
+Fun: -0.74 +- 0.66
+TotalScore: -0.74 +- 0.66
+
+----------------Total steps: 152500----------------
+Time passed: 2001s
+EpLength: 50.00 +- 0.00
+Fun: -0.84 +- 0.87
+TotalScore: -0.84 +- 0.87
+
+----------------Total steps: 155000----------------
+Time passed: 2025s
+EpLength: 50.00 +- 0.00
+Fun: -0.72 +- 0.63
+TotalScore: -0.72 +- 0.63
+
+----------------Total steps: 157500----------------
+Time passed: 2059s
+EpLength: 50.00 +- 0.00
+Fun: -0.85 +- 1.08
+TotalScore: -0.85 +- 1.08
+
+----------------Total steps: 160000----------------
+Time passed: 2083s
+EpLength: 50.00 +- 0.00
+Fun: -0.71 +- 0.66
+TotalScore: -0.71 +- 0.66
+
+----------------Total steps: 162500----------------
+Time passed: 2119s
+EpLength: 50.00 +- 0.00
+Fun: -0.61 +- 0.41
+TotalScore: -0.61 +- 0.41
+
+----------------Total steps: 165000----------------
+Time passed: 2142s
+EpLength: 50.00 +- 0.00
+Fun: -0.75 +- 0.68
+TotalScore: -0.75 +- 0.68
+
+----------------Total steps: 167500----------------
+Time passed: 2176s
+EpLength: 50.00 +- 0.00
+Fun: -0.57 +- 0.44
+TotalScore: -0.57 +- 0.44
+
+----------------Total steps: 170000----------------
+Time passed: 2200s
+EpLength: 50.00 +- 0.00
+Fun: -0.75 +- 0.69
+TotalScore: -0.75 +- 0.69
+
+----------------Total steps: 172500----------------
+Time passed: 2235s
+EpLength: 50.00 +- 0.00
+Fun: -0.68 +- 0.87
+TotalScore: -0.68 +- 0.87
+
+----------------Total steps: 175000----------------
+Time passed: 2258s
+EpLength: 50.00 +- 0.00
+Fun: -0.58 +- 0.46
+TotalScore: -0.58 +- 0.46
+
+----------------Total steps: 177500----------------
+Time passed: 2295s
+EpLength: 50.00 +- 0.00
+Fun: -0.50 +- 0.58
+TotalScore: -0.50 +- 0.58
+
+----------------Total steps: 180000----------------
+Time passed: 2319s
+EpLength: 50.00 +- 0.00
+Fun: -0.88 +- 1.03
+TotalScore: -0.88 +- 1.03
+
+----------------Total steps: 182500----------------
+Time passed: 2354s
+EpLength: 50.00 +- 0.00
+Fun: -0.58 +- 0.58
+TotalScore: -0.58 +- 0.58
+
+----------------Total steps: 185000----------------
+Time passed: 2377s
+EpLength: 50.00 +- 0.00
+Fun: -0.58 +- 0.72
+TotalScore: -0.58 +- 0.72
+
+----------------Total steps: 187500----------------
+Time passed: 2413s
+EpLength: 50.00 +- 0.00
+Fun: -0.61 +- 0.54
+TotalScore: -0.61 +- 0.54
+
+----------------Total steps: 190000----------------
+Time passed: 2436s
+EpLength: 50.00 +- 0.00
+Fun: -0.62 +- 0.62
+TotalScore: -0.62 +- 0.62
+
+----------------Total steps: 192500----------------
+Time passed: 2473s
+EpLength: 50.00 +- 0.00
+Fun: -0.53 +- 0.34
+TotalScore: -0.53 +- 0.34
+
+----------------Total steps: 195000----------------
+Time passed: 2496s
+EpLength: 50.00 +- 0.00
+Fun: -0.54 +- 0.55
+TotalScore: -0.54 +- 0.55
+
+----------------Total steps: 197500----------------
+Time passed: 2532s
+EpLength: 50.00 +- 0.00
+Fun: -0.58 +- 0.50
+TotalScore: -0.58 +- 0.50
+
+----------------Total steps: 200000----------------
+Time passed: 2556s
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.37
+TotalScore: -0.45 +- 0.37
+
+----------------Total steps: 202500----------------
+Time passed: 2591s
+EpLength: 50.00 +- 0.00
+Fun: -0.83 +- 2.30
+TotalScore: -0.83 +- 2.30
+
+----------------Total steps: 205000----------------
+Time passed: 2613s
+EpLength: 50.00 +- 0.00
+Fun: -0.50 +- 0.43
+TotalScore: -0.50 +- 0.43
+
+----------------Total steps: 207500----------------
+Time passed: 2649s
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.35
+TotalScore: -0.47 +- 0.35
+
+----------------Total steps: 210000----------------
+Time passed: 2672s
+EpLength: 50.00 +- 0.00
+Fun: -0.50 +- 0.34
+TotalScore: -0.50 +- 0.34
+
+----------------Total steps: 212500----------------
+Time passed: 2706s
+EpLength: 50.00 +- 0.00
+Fun: -0.65 +- 0.76
+TotalScore: -0.65 +- 0.76
+
+----------------Total steps: 215000----------------
+Time passed: 2729s
+EpLength: 50.00 +- 0.00
+Fun: -0.52 +- 0.45
+TotalScore: -0.52 +- 0.45
+
+----------------Total steps: 217500----------------
+Time passed: 2764s
+EpLength: 50.00 +- 0.00
+Fun: -0.54 +- 0.50
+TotalScore: -0.54 +- 0.50
+
+----------------Total steps: 220000----------------
+Time passed: 2787s
+EpLength: 50.00 +- 0.00
+Fun: -0.55 +- 0.60
+TotalScore: -0.55 +- 0.60
+
+----------------Total steps: 222500----------------
+Time passed: 2822s
+EpLength: 50.00 +- 0.00
+Fun: -0.58 +- 0.90
+TotalScore: -0.58 +- 0.90
+
+----------------Total steps: 225000----------------
+Time passed: 2844s
+EpLength: 50.00 +- 0.00
+Fun: -0.63 +- 0.71
+TotalScore: -0.63 +- 0.71
+
+----------------Total steps: 227500----------------
+Time passed: 2879s
+EpLength: 50.00 +- 0.00
+Fun: -0.59 +- 0.54
+TotalScore: -0.59 +- 0.54
+
+----------------Total steps: 230000----------------
+Time passed: 2903s
+EpLength: 50.00 +- 0.00
+Fun: -0.55 +- 0.47
+TotalScore: -0.55 +- 0.47
+
+----------------Total steps: 232500----------------
+Time passed: 2940s
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.21
+TotalScore: -0.41 +- 0.21
+
+----------------Total steps: 235000----------------
+Time passed: 2962s
+EpLength: 50.00 +- 0.00
+Fun: -0.54 +- 0.54
+TotalScore: -0.54 +- 0.54
+
+----------------Total steps: 237500----------------
+Time passed: 3000s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.30
+TotalScore: -0.42 +- 0.30
+
+----------------Total steps: 240000----------------
+Time passed: 3023s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.24
+TotalScore: -0.38 +- 0.24
+
+----------------Total steps: 242500----------------
+Time passed: 3057s
+EpLength: 50.00 +- 0.00
+Fun: -0.55 +- 1.02
+TotalScore: -0.55 +- 1.02
+
+----------------Total steps: 245000----------------
+Time passed: 3079s
+EpLength: 50.00 +- 0.00
+Fun: -0.57 +- 0.62
+TotalScore: -0.57 +- 0.62
+
+----------------Total steps: 247500----------------
+Time passed: 3114s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.38
+TotalScore: -0.42 +- 0.38
+
+----------------Total steps: 250000----------------
+Time passed: 3136s
+EpLength: 50.00 +- 0.00
+Fun: -0.55 +- 0.71
+TotalScore: -0.55 +- 0.71
+
+----------------Total steps: 252500----------------
+Time passed: 3174s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.19
+TotalScore: -0.37 +- 0.19
+
+----------------Total steps: 255000----------------
+Time passed: 3198s
+EpLength: 50.00 +- 0.00
+Fun: -0.48 +- 0.31
+TotalScore: -0.48 +- 0.31
+
+----------------Total steps: 257500----------------
+Time passed: 3236s
+EpLength: 50.00 +- 0.00
+Fun: -0.60 +- 0.95
+TotalScore: -0.60 +- 0.95
+
+----------------Total steps: 260000----------------
+Time passed: 3258s
+EpLength: 50.00 +- 0.00
+Fun: -0.60 +- 0.93
+TotalScore: -0.60 +- 0.93
+
+----------------Total steps: 262500----------------
+Time passed: 3297s
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.55
+TotalScore: -0.43 +- 0.55
+
+----------------Total steps: 265000----------------
+Time passed: 3320s
+EpLength: 50.00 +- 0.00
+Fun: -0.61 +- 0.75
+TotalScore: -0.61 +- 0.75
+
+----------------Total steps: 267500----------------
+Time passed: 3357s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.22
+TotalScore: -0.36 +- 0.22
+
+----------------Total steps: 270000----------------
+Time passed: 3380s
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.31
+TotalScore: -0.43 +- 0.31
+
+----------------Total steps: 272500----------------
+Time passed: 3417s
+EpLength: 50.00 +- 0.00
+Fun: -0.50 +- 0.36
+TotalScore: -0.50 +- 0.36
+
+----------------Total steps: 275000----------------
+Time passed: 3441s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.24
+TotalScore: -0.36 +- 0.24
+
+----------------Total steps: 277500----------------
+Time passed: 3476s
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.84
+TotalScore: -0.47 +- 0.84
+
+----------------Total steps: 280000----------------
+Time passed: 3499s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.26
+TotalScore: -0.42 +- 0.26
+
+----------------Total steps: 282500----------------
+Time passed: 3533s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.34
+TotalScore: -0.44 +- 0.34
+
+----------------Total steps: 285000----------------
+Time passed: 3556s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.39
+TotalScore: -0.40 +- 0.39
+
+----------------Total steps: 287500----------------
+Time passed: 3591s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.30
+TotalScore: -0.44 +- 0.30
+
+----------------Total steps: 290000----------------
+Time passed: 3614s
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.35
+TotalScore: -0.41 +- 0.35
+
+----------------Total steps: 292500----------------
+Time passed: 3651s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.30
+TotalScore: -0.40 +- 0.30
+
+----------------Total steps: 295000----------------
+Time passed: 3675s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.27
+TotalScore: -0.42 +- 0.27
+
+----------------Total steps: 297500----------------
+Time passed: 3708s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.27
+TotalScore: -0.34 +- 0.27
+
+----------------Total steps: 300000----------------
+Time passed: 3731s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.32
+TotalScore: -0.38 +- 0.32
+
+----------------Total steps: 302500----------------
+Time passed: 3767s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.29
+TotalScore: -0.36 +- 0.29
+
+----------------Total steps: 305000----------------
+Time passed: 3791s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.27
+TotalScore: -0.40 +- 0.27
+
+----------------Total steps: 307500----------------
+Time passed: 3826s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.60
+TotalScore: -0.44 +- 0.60
+
+----------------Total steps: 310000----------------
+Time passed: 3848s
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.42
+TotalScore: -0.41 +- 0.42
+
+----------------Total steps: 312500----------------
+Time passed: 3882s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.22
+TotalScore: -0.32 +- 0.22
+
+----------------Total steps: 315000----------------
+Time passed: 3905s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.44
+TotalScore: -0.40 +- 0.44
+
+----------------Total steps: 317500----------------
+Time passed: 3939s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.40
+TotalScore: -0.42 +- 0.40
+
+----------------Total steps: 320000----------------
+Time passed: 3961s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.26
+TotalScore: -0.32 +- 0.26
+
+----------------Total steps: 322500----------------
+Time passed: 3996s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.30
+TotalScore: -0.36 +- 0.30
+
+----------------Total steps: 325000----------------
+Time passed: 4019s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.18
+TotalScore: -0.33 +- 0.18
+
+----------------Total steps: 327500----------------
+Time passed: 4056s
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.47
+TotalScore: -0.47 +- 0.47
+
+----------------Total steps: 330000----------------
+Time passed: 4078s
+EpLength: 50.00 +- 0.00
+Fun: -0.48 +- 0.46
+TotalScore: -0.48 +- 0.46
+
+----------------Total steps: 332500----------------
+Time passed: 4116s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.34
+TotalScore: -0.40 +- 0.34
+
+----------------Total steps: 335000----------------
+Time passed: 4138s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.26
+TotalScore: -0.33 +- 0.26
+
+----------------Total steps: 337500----------------
+Time passed: 4176s
+EpLength: 50.00 +- 0.00
+Fun: -0.49 +- 0.60
+TotalScore: -0.49 +- 0.60
+
+----------------Total steps: 340000----------------
+Time passed: 4198s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.26
+TotalScore: -0.35 +- 0.26
+
+----------------Total steps: 342500----------------
+Time passed: 4238s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.38
+TotalScore: -0.44 +- 0.38
+
+----------------Total steps: 345000----------------
+Time passed: 4261s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.36
+TotalScore: -0.37 +- 0.36
+
+----------------Total steps: 347500----------------
+Time passed: 4297s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.31
+TotalScore: -0.37 +- 0.31
+
+----------------Total steps: 350000----------------
+Time passed: 4320s
+EpLength: 50.00 +- 0.00
+Fun: -0.54 +- 0.90
+TotalScore: -0.54 +- 0.90
+
+----------------Total steps: 352500----------------
+Time passed: 4360s
+EpLength: 50.00 +- 0.00
+Fun: -0.63 +- 1.26
+TotalScore: -0.63 +- 1.26
+
+----------------Total steps: 355000----------------
+Time passed: 4384s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.26
+TotalScore: -0.37 +- 0.26
+
+----------------Total steps: 357500----------------
+Time passed: 4421s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.40
+TotalScore: -0.42 +- 0.40
+
+----------------Total steps: 360000----------------
+Time passed: 4443s
+EpLength: 50.00 +- 0.00
+Fun: -0.57 +- 0.81
+TotalScore: -0.57 +- 0.81
+
+----------------Total steps: 362500----------------
+Time passed: 4482s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.46
+TotalScore: -0.44 +- 0.46
+
+----------------Total steps: 365000----------------
+Time passed: 4505s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.48
+TotalScore: -0.39 +- 0.48
+
+----------------Total steps: 367500----------------
+Time passed: 4543s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.28
+TotalScore: -0.35 +- 0.28
+
+----------------Total steps: 370000----------------
+Time passed: 4567s
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.39
+TotalScore: -0.43 +- 0.39
+
+----------------Total steps: 372500----------------
+Time passed: 4605s
+EpLength: 50.00 +- 0.00
+Fun: -0.46 +- 0.46
+TotalScore: -0.46 +- 0.46
+
+----------------Total steps: 375000----------------
+Time passed: 4628s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.22
+TotalScore: -0.33 +- 0.22
+
+----------------Total steps: 377500----------------
+Time passed: 4664s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.27
+TotalScore: -0.34 +- 0.27
+
+----------------Total steps: 380000----------------
+Time passed: 4688s
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.65
+TotalScore: -0.45 +- 0.65
+
+----------------Total steps: 382500----------------
+Time passed: 4722s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.20
+TotalScore: -0.31 +- 0.20
+
+----------------Total steps: 385000----------------
+Time passed: 4746s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.33
+TotalScore: -0.36 +- 0.33
+
+----------------Total steps: 387500----------------
+Time passed: 4781s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.42
+TotalScore: -0.36 +- 0.42
+
+----------------Total steps: 390000----------------
+Time passed: 4804s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.16
+TotalScore: -0.28 +- 0.16
+
+----------------Total steps: 392500----------------
+Time passed: 4840s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.24
+TotalScore: -0.32 +- 0.24
+
+----------------Total steps: 395000----------------
+Time passed: 4863s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.36
+TotalScore: -0.39 +- 0.36
+
+----------------Total steps: 397500----------------
+Time passed: 4899s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.33
+TotalScore: -0.40 +- 0.33
+
+----------------Total steps: 400000----------------
+Time passed: 4923s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.20
+TotalScore: -0.27 +- 0.20
+
+----------------Total steps: 402500----------------
+Time passed: 4959s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.35
+TotalScore: -0.34 +- 0.35
+
+----------------Total steps: 405000----------------
+Time passed: 4983s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.43
+TotalScore: -0.42 +- 0.43
+
+----------------Total steps: 407500----------------
+Time passed: 5021s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.60
+TotalScore: -0.44 +- 0.60
+
+----------------Total steps: 410000----------------
+Time passed: 5045s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.33
+TotalScore: -0.38 +- 0.33
+
+----------------Total steps: 412500----------------
+Time passed: 5079s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.42
+TotalScore: -0.37 +- 0.42
+
+----------------Total steps: 415000----------------
+Time passed: 5102s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.27
+TotalScore: -0.29 +- 0.27
+
+----------------Total steps: 417500----------------
+Time passed: 5138s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.43
+TotalScore: -0.38 +- 0.43
+
+----------------Total steps: 420000----------------
+Time passed: 5161s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.33
+TotalScore: -0.35 +- 0.33
+
+----------------Total steps: 422500----------------
+Time passed: 5197s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.41
+TotalScore: -0.37 +- 0.41
+
+----------------Total steps: 425000----------------
+Time passed: 5220s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.20
+TotalScore: -0.30 +- 0.20
+
+----------------Total steps: 427500----------------
+Time passed: 5255s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.42
+TotalScore: -0.38 +- 0.42
+
+----------------Total steps: 430000----------------
+Time passed: 5278s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.28
+TotalScore: -0.34 +- 0.28
+
+----------------Total steps: 432500----------------
+Time passed: 5313s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.33
+TotalScore: -0.34 +- 0.33
+
+----------------Total steps: 435000----------------
+Time passed: 5336s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.29
+TotalScore: -0.35 +- 0.29
+
+----------------Total steps: 437500----------------
+Time passed: 5372s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.32
+TotalScore: -0.33 +- 0.32
+
+----------------Total steps: 440000----------------
+Time passed: 5395s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.33
+TotalScore: -0.31 +- 0.33
+
+----------------Total steps: 442500----------------
+Time passed: 5434s
+EpLength: 50.00 +- 0.00
+Fun: -0.51 +- 1.10
+TotalScore: -0.51 +- 1.10
+
+----------------Total steps: 445000----------------
+Time passed: 5458s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.19
+TotalScore: -0.29 +- 0.19
+
+----------------Total steps: 447500----------------
+Time passed: 5497s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.33
+TotalScore: -0.34 +- 0.33
+
+----------------Total steps: 450000----------------
+Time passed: 5520s
+EpLength: 50.00 +- 0.00
+Fun: -0.72 +- 1.67
+TotalScore: -0.72 +- 1.67
+
+----------------Total steps: 452500----------------
+Time passed: 5558s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.23
+TotalScore: -0.31 +- 0.23
+
+----------------Total steps: 455000----------------
+Time passed: 5582s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.19
+TotalScore: -0.27 +- 0.19
+
+----------------Total steps: 457500----------------
+Time passed: 5618s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.17
+TotalScore: -0.26 +- 0.17
+
+----------------Total steps: 460000----------------
+Time passed: 5642s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.46
+TotalScore: -0.38 +- 0.46
+
+----------------Total steps: 462500----------------
+Time passed: 5676s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.18
+TotalScore: -0.26 +- 0.18
+
+----------------Total steps: 465000----------------
+Time passed: 5700s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.30
+TotalScore: -0.28 +- 0.30
+
+----------------Total steps: 467500----------------
+Time passed: 5738s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.21
+TotalScore: -0.26 +- 0.21
+
+----------------Total steps: 470000----------------
+Time passed: 5761s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.46
+TotalScore: -0.30 +- 0.46
+
+----------------Total steps: 472500----------------
+Time passed: 5798s
+EpLength: 50.00 +- 0.00
+Fun: -0.22 +- 0.11
+TotalScore: -0.22 +- 0.11
+
+----------------Total steps: 475000----------------
+Time passed: 5821s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.32
+TotalScore: -0.32 +- 0.32
+
+----------------Total steps: 477500----------------
+Time passed: 5858s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.30
+TotalScore: -0.29 +- 0.30
+
+----------------Total steps: 480000----------------
+Time passed: 5880s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.36
+TotalScore: -0.35 +- 0.36
+
+----------------Total steps: 482500----------------
+Time passed: 5917s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.17
+TotalScore: -0.25 +- 0.17
+
+----------------Total steps: 485000----------------
+Time passed: 5940s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.67
+TotalScore: -0.33 +- 0.67
+
+----------------Total steps: 487500----------------
+Time passed: 5976s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.30
+TotalScore: -0.37 +- 0.30
+
+----------------Total steps: 490000----------------
+Time passed: 6000s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.59
+TotalScore: -0.35 +- 0.59
+
+----------------Total steps: 492500----------------
+Time passed: 6037s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.21
+TotalScore: -0.26 +- 0.21
+
+----------------Total steps: 495000----------------
+Time passed: 6060s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.28
+TotalScore: -0.28 +- 0.28
+
+----------------Total steps: 497500----------------
+Time passed: 6097s
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.12
+TotalScore: -0.23 +- 0.12
+
+----------------Total steps: 500000----------------
+Time passed: 6119s
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.26
+TotalScore: -0.23 +- 0.26
+
+----------------Total steps: 502500----------------
+Time passed: 6155s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.23
+TotalScore: -0.27 +- 0.23
+
+----------------Total steps: 505000----------------
+Time passed: 6178s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.26
+TotalScore: -0.28 +- 0.26
+
+----------------Total steps: 507500----------------
+Time passed: 6212s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.25
+TotalScore: -0.25 +- 0.25
+
+----------------Total steps: 510000----------------
+Time passed: 6234s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.65
+TotalScore: -0.38 +- 0.65
+
+----------------Total steps: 512500----------------
+Time passed: 6268s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.26
+TotalScore: -0.32 +- 0.26
+
+----------------Total steps: 515000----------------
+Time passed: 6291s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.30
+TotalScore: -0.32 +- 0.30
+
+----------------Total steps: 517500----------------
+Time passed: 6329s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.24
+TotalScore: -0.26 +- 0.24
+
+----------------Total steps: 520000----------------
+Time passed: 6351s
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.20
+TotalScore: -0.23 +- 0.20
+
+----------------Total steps: 522500----------------
+Time passed: 6386s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.39
+TotalScore: -0.32 +- 0.39
+
+----------------Total steps: 525000----------------
+Time passed: 6408s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.25
+TotalScore: -0.27 +- 0.25
+
+----------------Total steps: 527500----------------
+Time passed: 6443s
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.15
+TotalScore: -0.24 +- 0.15
+
+----------------Total steps: 530000----------------
+Time passed: 6466s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.28
+TotalScore: -0.30 +- 0.28
+
+----------------Total steps: 532500----------------
+Time passed: 6498s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.68
+TotalScore: -0.39 +- 0.68
+
+----------------Total steps: 535000----------------
+Time passed: 6521s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.35
+TotalScore: -0.29 +- 0.35
+
+----------------Total steps: 537500----------------
+Time passed: 6555s
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.17
+TotalScore: -0.24 +- 0.17
+
+----------------Total steps: 540000----------------
+Time passed: 6577s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.18
+TotalScore: -0.26 +- 0.18
+
+----------------Total steps: 542500----------------
+Time passed: 6612s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.23
+TotalScore: -0.25 +- 0.23
+
+----------------Total steps: 545000----------------
+Time passed: 6635s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.31
+TotalScore: -0.30 +- 0.31
+
+----------------Total steps: 547500----------------
+Time passed: 6671s
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.16
+TotalScore: -0.24 +- 0.16
+
+----------------Total steps: 550000----------------
+Time passed: 6694s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.34
+TotalScore: -0.29 +- 0.34
+
+----------------Total steps: 552500----------------
+Time passed: 6732s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.26
+TotalScore: -0.30 +- 0.26
+
+----------------Total steps: 555000----------------
+Time passed: 6754s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.28
+TotalScore: -0.30 +- 0.28
+
+----------------Total steps: 557500----------------
+Time passed: 6791s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 1.10
+TotalScore: -0.39 +- 1.10
+
+----------------Total steps: 560000----------------
+Time passed: 6814s
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.17
+TotalScore: -0.23 +- 0.17
+
+----------------Total steps: 562500----------------
+Time passed: 6852s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.38
+TotalScore: -0.31 +- 0.38
+
+----------------Total steps: 565000----------------
+Time passed: 6875s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.57
+TotalScore: -0.40 +- 0.57
+
+----------------Total steps: 567500----------------
+Time passed: 6913s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.28
+TotalScore: -0.33 +- 0.28
+
+----------------Total steps: 570000----------------
+Time passed: 6936s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.31
+TotalScore: -0.25 +- 0.31
+
+----------------Total steps: 572500----------------
+Time passed: 6974s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.22
+TotalScore: -0.28 +- 0.22
+
+----------------Total steps: 575000----------------
+Time passed: 6998s
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.16
+TotalScore: -0.23 +- 0.16
+
+----------------Total steps: 577500----------------
+Time passed: 7037s
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.17
+TotalScore: -0.23 +- 0.17
+
+----------------Total steps: 580000----------------
+Time passed: 7059s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.24
+TotalScore: -0.25 +- 0.24
+
+----------------Total steps: 582500----------------
+Time passed: 7097s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.24
+TotalScore: -0.27 +- 0.24
+
+----------------Total steps: 585000----------------
+Time passed: 7120s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.50
+TotalScore: -0.29 +- 0.50
+
+----------------Total steps: 587500----------------
+Time passed: 7157s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.64
+TotalScore: -0.33 +- 0.64
+
+----------------Total steps: 590000----------------
+Time passed: 7181s
+EpLength: 50.00 +- 0.00
+Fun: -0.52 +- 0.76
+TotalScore: -0.52 +- 0.76
+
+----------------Total steps: 592500----------------
+Time passed: 7215s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.56
+TotalScore: -0.37 +- 0.56
+
+----------------Total steps: 595000----------------
+Time passed: 7238s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.25
+TotalScore: -0.29 +- 0.25
+
+----------------Total steps: 597500----------------
+Time passed: 7273s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.34
+TotalScore: -0.29 +- 0.34
+
+----------------Total steps: 600000----------------
+Time passed: 7295s
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.14
+TotalScore: -0.23 +- 0.14
+
+----------------Total steps: 602500----------------
+Time passed: 7330s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.32
+TotalScore: -0.29 +- 0.32
+
+----------------Total steps: 605000----------------
+Time passed: 7353s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.36
+TotalScore: -0.29 +- 0.36
+
+----------------Total steps: 607500----------------
+Time passed: 7387s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.22
+TotalScore: -0.27 +- 0.22
+
+----------------Total steps: 610000----------------
+Time passed: 7410s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.22
+TotalScore: -0.28 +- 0.22
+
+----------------Total steps: 612500----------------
+Time passed: 7445s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.25
+TotalScore: -0.28 +- 0.25
+
+----------------Total steps: 615000----------------
+Time passed: 7469s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.32
+TotalScore: -0.28 +- 0.32
+
+----------------Total steps: 617500----------------
+Time passed: 7507s
+EpLength: 50.00 +- 0.00
+Fun: -0.21 +- 0.14
+TotalScore: -0.21 +- 0.14
+
+----------------Total steps: 620000----------------
+Time passed: 7530s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.34
+TotalScore: -0.27 +- 0.34
+
+----------------Total steps: 622500----------------
+Time passed: 7567s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.20
+TotalScore: -0.27 +- 0.20
+
+----------------Total steps: 625000----------------
+Time passed: 7590s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.35
+TotalScore: -0.31 +- 0.35
+
+----------------Total steps: 627500----------------
+Time passed: 7626s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.25
+TotalScore: -0.28 +- 0.25
+
+----------------Total steps: 630000----------------
+Time passed: 7650s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.40
+TotalScore: -0.36 +- 0.40
+
+----------------Total steps: 632500----------------
+Time passed: 7686s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.17
+TotalScore: -0.25 +- 0.17
+
+----------------Total steps: 635000----------------
+Time passed: 7709s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.21
+TotalScore: -0.27 +- 0.21
+
+----------------Total steps: 637500----------------
+Time passed: 7744s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.20
+TotalScore: -0.28 +- 0.20
+
+----------------Total steps: 640000----------------
+Time passed: 7768s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.53
+TotalScore: -0.44 +- 0.53
+
+----------------Total steps: 642500----------------
+Time passed: 7801s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.33
+TotalScore: -0.30 +- 0.33
+
+----------------Total steps: 645000----------------
+Time passed: 7825s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.43
+TotalScore: -0.30 +- 0.43
+
+----------------Total steps: 647500----------------
+Time passed: 7861s
+EpLength: 50.00 +- 0.00
+Fun: -0.21 +- 0.16
+TotalScore: -0.21 +- 0.16
+
+----------------Total steps: 650000----------------
+Time passed: 7886s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.27
+TotalScore: -0.27 +- 0.27
+
+----------------Total steps: 652500----------------
+Time passed: 7923s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.32
+TotalScore: -0.30 +- 0.32
+
+----------------Total steps: 655000----------------
+Time passed: 7948s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.47
+TotalScore: -0.33 +- 0.47
+
+----------------Total steps: 657500----------------
+Time passed: 7983s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.22
+TotalScore: -0.27 +- 0.22
+
+----------------Total steps: 660000----------------
+Time passed: 8007s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.73
+TotalScore: -0.44 +- 0.73
+
+----------------Total steps: 662500----------------
+Time passed: 8043s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.59
+TotalScore: -0.35 +- 0.59
+
+----------------Total steps: 665000----------------
+Time passed: 8067s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.24
+TotalScore: -0.26 +- 0.24
+
+----------------Total steps: 667500----------------
+Time passed: 8103s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.25
+TotalScore: -0.29 +- 0.25
+
+----------------Total steps: 670000----------------
+Time passed: 8126s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.38
+TotalScore: -0.30 +- 0.38
+
+----------------Total steps: 672500----------------
+Time passed: 8162s
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.17
+TotalScore: -0.24 +- 0.17
+
+----------------Total steps: 675000----------------
+Time passed: 8185s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.18
+TotalScore: -0.26 +- 0.18
+
+----------------Total steps: 677500----------------
+Time passed: 8221s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.16
+TotalScore: -0.25 +- 0.16
+
+----------------Total steps: 680000----------------
+Time passed: 8245s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.34
+TotalScore: -0.31 +- 0.34
+
+----------------Total steps: 682500----------------
+Time passed: 8282s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.42
+TotalScore: -0.33 +- 0.42
+
+----------------Total steps: 685000----------------
+Time passed: 8307s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.27
+TotalScore: -0.32 +- 0.27
+
+----------------Total steps: 687500----------------
+Time passed: 8345s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.18
+TotalScore: -0.26 +- 0.18
+
+----------------Total steps: 690000----------------
+Time passed: 8369s
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.96
+TotalScore: -0.42 +- 0.96
+
+----------------Total steps: 692500----------------
+Time passed: 8404s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.39
+TotalScore: -0.32 +- 0.39
+
+----------------Total steps: 695000----------------
+Time passed: 8428s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.23
+TotalScore: -0.27 +- 0.23
+
+----------------Total steps: 697500----------------
+Time passed: 8466s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.36
+TotalScore: -0.33 +- 0.36
+
+----------------Total steps: 700000----------------
+Time passed: 8490s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.25
+TotalScore: -0.29 +- 0.25
+
+----------------Total steps: 702500----------------
+Time passed: 8526s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.38
+TotalScore: -0.35 +- 0.38
+
+----------------Total steps: 705000----------------
+Time passed: 8550s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.33
+TotalScore: -0.38 +- 0.33
+
+----------------Total steps: 707500----------------
+Time passed: 8587s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.32
+TotalScore: -0.32 +- 0.32
+
+----------------Total steps: 710000----------------
+Time passed: 8610s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.35
+TotalScore: -0.30 +- 0.35
+
+----------------Total steps: 712500----------------
+Time passed: 8647s
+EpLength: 50.00 +- 0.00
+Fun: -0.46 +- 0.52
+TotalScore: -0.46 +- 0.52
+
+----------------Total steps: 715000----------------
+Time passed: 8671s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.39
+TotalScore: -0.38 +- 0.39
+
+----------------Total steps: 717500----------------
+Time passed: 8710s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.53
+TotalScore: -0.37 +- 0.53
+
+----------------Total steps: 720000----------------
+Time passed: 8733s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.28
+TotalScore: -0.35 +- 0.28
+
+----------------Total steps: 722500----------------
+Time passed: 8768s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.48
+TotalScore: -0.36 +- 0.48
+
+----------------Total steps: 725000----------------
+Time passed: 8791s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.59
+TotalScore: -0.35 +- 0.59
+
+----------------Total steps: 727500----------------
+Time passed: 8827s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.41
+TotalScore: -0.28 +- 0.41
+
+----------------Total steps: 730000----------------
+Time passed: 8850s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.22
+TotalScore: -0.33 +- 0.22
+
+----------------Total steps: 732500----------------
+Time passed: 8887s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.40
+TotalScore: -0.35 +- 0.40
+
+----------------Total steps: 735000----------------
+Time passed: 8911s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.43
+TotalScore: -0.30 +- 0.43
+
+----------------Total steps: 737500----------------
+Time passed: 8946s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.26
+TotalScore: -0.31 +- 0.26
+
+----------------Total steps: 740000----------------
+Time passed: 8971s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.52
+TotalScore: -0.37 +- 0.52
+
+----------------Total steps: 742500----------------
+Time passed: 9008s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.36
+TotalScore: -0.32 +- 0.36
+
+----------------Total steps: 745000----------------
+Time passed: 9031s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.33
+TotalScore: -0.29 +- 0.33
+
+----------------Total steps: 747500----------------
+Time passed: 9067s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.23
+TotalScore: -0.30 +- 0.23
+
+----------------Total steps: 750000----------------
+Time passed: 9091s
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.80
+TotalScore: -0.45 +- 0.80
+
+----------------Total steps: 752500----------------
+Time passed: 9126s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.48
+TotalScore: -0.35 +- 0.48
+
+----------------Total steps: 755000----------------
+Time passed: 9151s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.29
+TotalScore: -0.36 +- 0.29
+
+----------------Total steps: 757500----------------
+Time passed: 9188s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.23
+TotalScore: -0.26 +- 0.23
+
+----------------Total steps: 760000----------------
+Time passed: 9211s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.15
+TotalScore: -0.25 +- 0.15
+
+----------------Total steps: 762500----------------
+Time passed: 9248s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.30
+TotalScore: -0.39 +- 0.30
+
+----------------Total steps: 765000----------------
+Time passed: 9272s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.30
+TotalScore: -0.33 +- 0.30
+
+----------------Total steps: 767500----------------
+Time passed: 9308s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.63
+TotalScore: -0.39 +- 0.63
+
+----------------Total steps: 770000----------------
+Time passed: 9332s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.23
+TotalScore: -0.30 +- 0.23
+
+----------------Total steps: 772500----------------
+Time passed: 9367s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.21
+TotalScore: -0.25 +- 0.21
+
+----------------Total steps: 775000----------------
+Time passed: 9391s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.27
+TotalScore: -0.35 +- 0.27
+
+----------------Total steps: 777500----------------
+Time passed: 9426s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.56
+TotalScore: -0.39 +- 0.56
+
+----------------Total steps: 780000----------------
+Time passed: 9450s
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.18
+TotalScore: -0.27 +- 0.18
+
+----------------Total steps: 782500----------------
+Time passed: 9486s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.50
+TotalScore: -0.38 +- 0.50
+
+----------------Total steps: 785000----------------
+Time passed: 9511s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.33
+TotalScore: -0.34 +- 0.33
+
+----------------Total steps: 787500----------------
+Time passed: 9549s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.57
+TotalScore: -0.39 +- 0.57
+
+----------------Total steps: 790000----------------
+Time passed: 9572s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.39
+TotalScore: -0.38 +- 0.39
+
+----------------Total steps: 792500----------------
+Time passed: 9613s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.51
+TotalScore: -0.34 +- 0.51
+
+----------------Total steps: 795000----------------
+Time passed: 9637s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.27
+TotalScore: -0.33 +- 0.27
+
+----------------Total steps: 797500----------------
+Time passed: 9675s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.38
+TotalScore: -0.37 +- 0.38
+
+----------------Total steps: 800000----------------
+Time passed: 9699s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.36
+TotalScore: -0.29 +- 0.36
+
+----------------Total steps: 802500----------------
+Time passed: 9739s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.32
+TotalScore: -0.34 +- 0.32
+
+----------------Total steps: 805000----------------
+Time passed: 9762s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.23
+TotalScore: -0.28 +- 0.23
+
+----------------Total steps: 807500----------------
+Time passed: 9801s
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.74
+TotalScore: -0.47 +- 0.74
+
+----------------Total steps: 810000----------------
+Time passed: 9825s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.20
+TotalScore: -0.30 +- 0.20
+
+----------------Total steps: 812500----------------
+Time passed: 9864s
+EpLength: 50.00 +- 0.00
+Fun: -0.61 +- 1.40
+TotalScore: -0.61 +- 1.40
+
+----------------Total steps: 815000----------------
+Time passed: 9888s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.33
+TotalScore: -0.31 +- 0.33
+
+----------------Total steps: 817500----------------
+Time passed: 9925s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.22
+TotalScore: -0.29 +- 0.22
+
+----------------Total steps: 820000----------------
+Time passed: 9949s
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.35
+TotalScore: -0.41 +- 0.35
+
+----------------Total steps: 822500----------------
+Time passed: 9988s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.32
+TotalScore: -0.38 +- 0.32
+
+----------------Total steps: 825000----------------
+Time passed: 10013s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.45
+TotalScore: -0.35 +- 0.45
+
+----------------Total steps: 827500----------------
+Time passed: 10054s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.33
+TotalScore: -0.34 +- 0.33
+
+----------------Total steps: 830000----------------
+Time passed: 10079s
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.59
+TotalScore: -0.45 +- 0.59
+
+----------------Total steps: 832500----------------
+Time passed: 10118s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.33
+TotalScore: -0.28 +- 0.33
+
+----------------Total steps: 835000----------------
+Time passed: 10143s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.57
+TotalScore: -0.38 +- 0.57
+
+----------------Total steps: 837500----------------
+Time passed: 10181s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.30
+TotalScore: -0.32 +- 0.30
+
+----------------Total steps: 840000----------------
+Time passed: 10207s
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.56
+TotalScore: -0.47 +- 0.56
+
+----------------Total steps: 842500----------------
+Time passed: 10245s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.33
+TotalScore: -0.36 +- 0.33
+
+----------------Total steps: 845000----------------
+Time passed: 10270s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.29
+TotalScore: -0.34 +- 0.29
+
+----------------Total steps: 847500----------------
+Time passed: 10309s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.43
+TotalScore: -0.37 +- 0.43
+
+----------------Total steps: 850000----------------
+Time passed: 10333s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.33
+TotalScore: -0.35 +- 0.33
+
+----------------Total steps: 852500----------------
+Time passed: 10374s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.26
+TotalScore: -0.35 +- 0.26
+
+----------------Total steps: 855000----------------
+Time passed: 10399s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.43
+TotalScore: -0.40 +- 0.43
+
+----------------Total steps: 857500----------------
+Time passed: 10438s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.56
+TotalScore: -0.40 +- 0.56
+
+----------------Total steps: 860000----------------
+Time passed: 10462s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.33
+TotalScore: -0.38 +- 0.33
+
+----------------Total steps: 862500----------------
+Time passed: 10501s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.31
+TotalScore: -0.34 +- 0.31
+
+----------------Total steps: 865000----------------
+Time passed: 10526s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.30
+TotalScore: -0.31 +- 0.30
+
+----------------Total steps: 867500----------------
+Time passed: 10565s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.39
+TotalScore: -0.38 +- 0.39
+
+----------------Total steps: 870000----------------
+Time passed: 10590s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.22
+TotalScore: -0.35 +- 0.22
+
+----------------Total steps: 872500----------------
+Time passed: 10630s
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.47
+TotalScore: -0.41 +- 0.47
+
+----------------Total steps: 875000----------------
+Time passed: 10656s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.45
+TotalScore: -0.40 +- 0.45
+
+----------------Total steps: 877500----------------
+Time passed: 10695s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.22
+TotalScore: -0.25 +- 0.22
+
+----------------Total steps: 880000----------------
+Time passed: 10721s
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.18
+TotalScore: -0.25 +- 0.18
+
+----------------Total steps: 882500----------------
+Time passed: 10761s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.47
+TotalScore: -0.37 +- 0.47
+
+----------------Total steps: 885000----------------
+Time passed: 10786s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.29
+TotalScore: -0.30 +- 0.29
+
+----------------Total steps: 887500----------------
+Time passed: 10822s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.32
+TotalScore: -0.35 +- 0.32
+
+----------------Total steps: 890000----------------
+Time passed: 10846s
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.50
+TotalScore: -0.47 +- 0.50
+
+----------------Total steps: 892500----------------
+Time passed: 10883s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.31
+TotalScore: -0.34 +- 0.31
+
+----------------Total steps: 895000----------------
+Time passed: 10907s
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.51
+TotalScore: -0.43 +- 0.51
+
+----------------Total steps: 897500----------------
+Time passed: 10943s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.33
+TotalScore: -0.34 +- 0.33
+
+----------------Total steps: 900000----------------
+Time passed: 10968s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.39
+TotalScore: -0.32 +- 0.39
+
+----------------Total steps: 902500----------------
+Time passed: 11003s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.37
+TotalScore: -0.33 +- 0.37
+
+----------------Total steps: 905000----------------
+Time passed: 11028s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.26
+TotalScore: -0.31 +- 0.26
+
+----------------Total steps: 907500----------------
+Time passed: 11065s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.29
+TotalScore: -0.37 +- 0.29
+
+----------------Total steps: 910000----------------
+Time passed: 11090s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.20
+TotalScore: -0.28 +- 0.20
+
+----------------Total steps: 912500----------------
+Time passed: 11127s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+TotalScore: -0.35 +- 0.31
+
+----------------Total steps: 915000----------------
+Time passed: 11152s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.43
+TotalScore: -0.40 +- 0.43
+
+----------------Total steps: 917500----------------
+Time passed: 11191s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.31
+TotalScore: -0.34 +- 0.31
+
+----------------Total steps: 920000----------------
+Time passed: 11215s
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.48
+TotalScore: -0.37 +- 0.48
+
+----------------Total steps: 922500----------------
+Time passed: 11252s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.34
+TotalScore: -0.36 +- 0.34
+
+----------------Total steps: 925000----------------
+Time passed: 11277s
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.29
+TotalScore: -0.40 +- 0.29
+
+----------------Total steps: 927500----------------
+Time passed: 11314s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.44
+TotalScore: -0.36 +- 0.44
+
+----------------Total steps: 930000----------------
+Time passed: 11338s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.29
+TotalScore: -0.31 +- 0.29
+
+----------------Total steps: 932500----------------
+Time passed: 11374s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.69
+TotalScore: -0.44 +- 0.69
+
+----------------Total steps: 935000----------------
+Time passed: 11397s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.30
+TotalScore: -0.36 +- 0.30
+
+----------------Total steps: 937500----------------
+Time passed: 11438s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.33
+TotalScore: -0.35 +- 0.33
+
+----------------Total steps: 940000----------------
+Time passed: 11462s
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.19
+TotalScore: -0.28 +- 0.19
+
+----------------Total steps: 942500----------------
+Time passed: 11503s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.34
+TotalScore: -0.34 +- 0.34
+
+----------------Total steps: 945000----------------
+Time passed: 11527s
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.41
+TotalScore: -0.36 +- 0.41
+
+----------------Total steps: 947500----------------
+Time passed: 11568s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.18
+TotalScore: -0.31 +- 0.18
+
+----------------Total steps: 950000----------------
+Time passed: 11592s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.34
+TotalScore: -0.32 +- 0.34
+
+----------------Total steps: 952500----------------
+Time passed: 11632s
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.24
+TotalScore: -0.29 +- 0.24
+
+----------------Total steps: 955000----------------
+Time passed: 11657s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.34
+TotalScore: -0.32 +- 0.34
+
+----------------Total steps: 957500----------------
+Time passed: 11696s
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.46
+TotalScore: -0.44 +- 0.46
+
+----------------Total steps: 960000----------------
+Time passed: 11721s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.33
+TotalScore: -0.34 +- 0.33
+
+----------------Total steps: 962500----------------
+Time passed: 11760s
+EpLength: 50.00 +- 0.00
+Fun: -0.46 +- 0.43
+TotalScore: -0.46 +- 0.43
+
+----------------Total steps: 965000----------------
+Time passed: 11785s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.30
+TotalScore: -0.34 +- 0.30
+
+----------------Total steps: 967500----------------
+Time passed: 11824s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.26
+TotalScore: -0.35 +- 0.26
+
+----------------Total steps: 970000----------------
+Time passed: 11849s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.25
+TotalScore: -0.30 +- 0.25
+
+----------------Total steps: 972500----------------
+Time passed: 11887s
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.42
+TotalScore: -0.38 +- 0.42
+
+----------------Total steps: 975000----------------
+Time passed: 11911s
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.61
+TotalScore: -0.45 +- 0.61
+
+----------------Total steps: 977500----------------
+Time passed: 11947s
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.33
+TotalScore: -0.33 +- 0.33
+
+----------------Total steps: 980000----------------
+Time passed: 11972s
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.25
+TotalScore: -0.30 +- 0.25
+
+----------------Total steps: 982500----------------
+Time passed: 12010s
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+TotalScore: -0.35 +- 0.31
+
+----------------Total steps: 985000----------------
+Time passed: 12034s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.29
+TotalScore: -0.31 +- 0.29
+
+----------------Total steps: 987500----------------
+Time passed: 12072s
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.29
+TotalScore: -0.32 +- 0.29
+
+----------------Total steps: 990000----------------
+Time passed: 12096s
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.20
+TotalScore: -0.26 +- 0.20
+
+----------------Total steps: 992500----------------
+Time passed: 12132s
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.34
+TotalScore: -0.34 +- 0.34
+
+----------------Total steps: 995000----------------
+Time passed: 12158s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.47
+TotalScore: -0.39 +- 0.47
+
+----------------Total steps: 997500----------------
+Time passed: 12195s
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.40
+TotalScore: -0.39 +- 0.40
+
+----------------Total steps: 1000000----------------
+Time passed: 12219s
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.19
+TotalScore: -0.31 +- 0.19
+

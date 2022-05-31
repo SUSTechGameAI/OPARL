@@ -1,0 +1,3200 @@
+----------------Total steps: 2500----------------
+Time passed: 146s
+TotalScore: 9.78 +- 14.00
+EpLength: 50.00 +- 0.00
+Fun: -11.34 +- 12.56
+Controllability: 32.78 +- 3.75
+Playability: -11.66 +- 3.59
+
+----------------Total steps: 5000----------------
+Time passed: 289s
+TotalScore: 12.23 +- 12.97
+EpLength: 50.00 +- 0.00
+Fun: -8.97 +- 10.79
+Controllability: 32.66 +- 4.11
+Playability: -11.46 +- 3.85
+
+----------------Total steps: 7500----------------
+Time passed: 450s
+TotalScore: 15.44 +- 9.24
+EpLength: 50.00 +- 0.00
+Fun: -7.61 +- 7.13
+Controllability: 32.89 +- 4.28
+Playability: -9.84 +- 2.80
+
+----------------Total steps: 10000----------------
+Time passed: 596s
+TotalScore: 15.14 +- 9.57
+EpLength: 50.00 +- 0.00
+Fun: -7.94 +- 7.82
+Controllability: 32.95 +- 4.33
+Playability: -9.88 +- 3.10
+
+----------------Total steps: 12500----------------
+Time passed: 754s
+TotalScore: 13.28 +- 13.86
+EpLength: 50.00 +- 0.00
+Fun: -10.03 +- 13.07
+Controllability: 32.99 +- 4.35
+Playability: -9.68 +- 3.54
+
+----------------Total steps: 15000----------------
+Time passed: 901s
+TotalScore: 11.76 +- 14.72
+EpLength: 50.00 +- 0.00
+Fun: -12.18 +- 13.14
+Controllability: 33.34 +- 4.79
+Playability: -9.40 +- 3.84
+
+----------------Total steps: 17500----------------
+Time passed: 1069s
+TotalScore: 14.15 +- 12.61
+EpLength: 50.00 +- 0.00
+Fun: -10.32 +- 11.79
+Controllability: 34.59 +- 4.41
+Playability: -10.12 +- 3.35
+
+----------------Total steps: 20000----------------
+Time passed: 1222s
+TotalScore: 17.40 +- 8.71
+EpLength: 50.00 +- 0.00
+Fun: -6.79 +- 6.39
+Controllability: 34.05 +- 4.47
+Playability: -9.86 +- 3.46
+
+----------------Total steps: 22500----------------
+Time passed: 1385s
+TotalScore: 19.35 +- 8.12
+EpLength: 50.00 +- 0.00
+Fun: -4.88 +- 5.85
+Controllability: 33.69 +- 3.94
+Playability: -9.46 +- 3.27
+
+----------------Total steps: 25000----------------
+Time passed: 1539s
+TotalScore: 16.22 +- 10.30
+EpLength: 50.00 +- 0.00
+Fun: -8.92 +- 9.27
+Controllability: 34.90 +- 3.82
+Playability: -9.76 +- 3.15
+
+----------------Total steps: 27500----------------
+Time passed: 1702s
+TotalScore: 16.99 +- 9.34
+EpLength: 50.00 +- 0.00
+Fun: -7.92 +- 8.25
+Controllability: 34.03 +- 4.79
+Playability: -9.12 +- 2.85
+
+----------------Total steps: 30000----------------
+Time passed: 1851s
+TotalScore: 15.53 +- 14.64
+EpLength: 50.00 +- 0.00
+Fun: -9.68 +- 13.73
+Controllability: 34.51 +- 4.67
+Playability: -9.30 +- 2.78
+
+----------------Total steps: 32500----------------
+Time passed: 2020s
+TotalScore: 17.13 +- 11.87
+EpLength: 50.00 +- 0.00
+Fun: -7.93 +- 10.80
+Controllability: 35.10 +- 4.74
+Playability: -10.04 +- 3.65
+
+----------------Total steps: 35000----------------
+Time passed: 2162s
+TotalScore: 14.90 +- 12.41
+EpLength: 50.00 +- 0.00
+Fun: -10.24 +- 10.70
+Controllability: 34.64 +- 4.78
+Playability: -9.50 +- 3.97
+
+----------------Total steps: 37500----------------
+Time passed: 2330s
+TotalScore: 18.09 +- 12.38
+EpLength: 50.00 +- 0.00
+Fun: -7.54 +- 9.56
+Controllability: 35.45 +- 4.05
+Playability: -9.82 +- 4.45
+
+----------------Total steps: 40000----------------
+Time passed: 2490s
+TotalScore: 19.37 +- 7.07
+EpLength: 50.00 +- 0.00
+Fun: -5.65 +- 5.20
+Controllability: 34.86 +- 4.13
+Playability: -9.84 +- 4.07
+
+----------------Total steps: 42500----------------
+Time passed: 2658s
+TotalScore: 19.17 +- 8.95
+EpLength: 50.00 +- 0.00
+Fun: -5.90 +- 8.59
+Controllability: 35.01 +- 4.33
+Playability: -9.94 +- 3.48
+
+----------------Total steps: 45000----------------
+Time passed: 2812s
+TotalScore: 19.43 +- 11.19
+EpLength: 50.00 +- 0.00
+Fun: -6.59 +- 8.84
+Controllability: 35.68 +- 4.55
+Playability: -9.66 +- 4.13
+
+----------------Total steps: 47500----------------
+Time passed: 2981s
+TotalScore: 21.55 +- 7.82
+EpLength: 50.00 +- 0.00
+Fun: -4.26 +- 4.85
+Controllability: 35.82 +- 4.07
+Playability: -10.02 +- 3.97
+
+----------------Total steps: 50000----------------
+Time passed: 3133s
+TotalScore: 19.01 +- 8.91
+EpLength: 50.00 +- 0.00
+Fun: -5.57 +- 5.85
+Controllability: 35.40 +- 3.81
+Playability: -10.82 +- 3.72
+
+----------------Total steps: 52500----------------
+Time passed: 3304s
+TotalScore: 21.87 +- 7.68
+EpLength: 50.00 +- 0.00
+Fun: -4.04 +- 5.14
+Controllability: 36.33 +- 3.84
+Playability: -10.42 +- 3.75
+
+----------------Total steps: 55000----------------
+Time passed: 3456s
+TotalScore: 20.98 +- 11.37
+EpLength: 50.00 +- 0.00
+Fun: -4.75 +- 10.18
+Controllability: 35.75 +- 3.69
+Playability: -10.02 +- 4.11
+
+----------------Total steps: 57500----------------
+Time passed: 3625s
+TotalScore: 20.31 +- 7.23
+EpLength: 50.00 +- 0.00
+Fun: -5.12 +- 5.95
+Controllability: 36.11 +- 3.69
+Playability: -10.68 +- 4.15
+
+----------------Total steps: 60000----------------
+Time passed: 3778s
+TotalScore: 18.77 +- 8.64
+EpLength: 50.00 +- 0.00
+Fun: -5.96 +- 8.67
+Controllability: 35.64 +- 4.03
+Playability: -10.92 +- 4.21
+
+----------------Total steps: 62500----------------
+Time passed: 3946s
+TotalScore: 23.03 +- 6.42
+EpLength: 50.00 +- 0.00
+Fun: -3.92 +- 3.58
+Controllability: 36.51 +- 3.79
+Playability: -9.56 +- 3.80
+
+----------------Total steps: 65000----------------
+Time passed: 4100s
+TotalScore: 21.02 +- 9.50
+EpLength: 50.00 +- 0.00
+Fun: -5.09 +- 6.78
+Controllability: 36.19 +- 4.45
+Playability: -10.08 +- 4.04
+
+----------------Total steps: 67500----------------
+Time passed: 4270s
+TotalScore: 23.87 +- 6.51
+EpLength: 50.00 +- 0.00
+Fun: -3.15 +- 2.55
+Controllability: 37.00 +- 3.75
+Playability: -9.98 +- 3.85
+
+----------------Total steps: 70000----------------
+Time passed: 4422s
+TotalScore: 23.21 +- 7.10
+EpLength: 50.00 +- 0.00
+Fun: -2.91 +- 2.37
+Controllability: 36.14 +- 4.08
+Playability: -10.02 +- 4.28
+
+----------------Total steps: 72500----------------
+Time passed: 4586s
+TotalScore: 21.92 +- 9.00
+EpLength: 50.00 +- 0.00
+Fun: -3.56 +- 7.07
+Controllability: 36.54 +- 3.55
+Playability: -11.06 +- 4.40
+
+----------------Total steps: 75000----------------
+Time passed: 4744s
+TotalScore: 24.59 +- 7.05
+EpLength: 50.00 +- 0.00
+Fun: -2.51 +- 2.00
+Controllability: 36.98 +- 4.23
+Playability: -9.88 +- 3.90
+
+----------------Total steps: 77500----------------
+Time passed: 4913s
+TotalScore: 22.71 +- 8.41
+EpLength: 50.00 +- 0.00
+Fun: -4.11 +- 6.00
+Controllability: 36.50 +- 3.90
+Playability: -9.68 +- 3.79
+
+----------------Total steps: 80000----------------
+Time passed: 5070s
+TotalScore: 23.46 +- 8.38
+EpLength: 50.00 +- 0.00
+Fun: -4.19 +- 5.88
+Controllability: 37.47 +- 3.49
+Playability: -9.82 +- 4.17
+
+----------------Total steps: 82500----------------
+Time passed: 5240s
+TotalScore: 22.13 +- 7.76
+EpLength: 50.00 +- 0.00
+Fun: -3.27 +- 4.94
+Controllability: 36.61 +- 3.57
+Playability: -11.20 +- 4.65
+
+----------------Total steps: 85000----------------
+Time passed: 5393s
+TotalScore: 22.69 +- 10.15
+EpLength: 50.00 +- 0.00
+Fun: -4.32 +- 8.67
+Controllability: 36.65 +- 3.85
+Playability: -9.64 +- 3.62
+
+----------------Total steps: 87500----------------
+Time passed: 5567s
+TotalScore: 22.47 +- 7.11
+EpLength: 50.00 +- 0.00
+Fun: -2.69 +- 3.03
+Controllability: 36.94 +- 3.24
+Playability: -11.78 +- 4.09
+
+----------------Total steps: 90000----------------
+Time passed: 5720s
+TotalScore: 23.09 +- 6.75
+EpLength: 50.00 +- 0.00
+Fun: -3.30 +- 3.09
+Controllability: 37.07 +- 3.66
+Playability: -10.68 +- 4.28
+
+----------------Total steps: 92500----------------
+Time passed: 5888s
+TotalScore: 23.02 +- 7.37
+EpLength: 50.00 +- 0.00
+Fun: -2.20 +- 3.09
+Controllability: 36.33 +- 3.64
+Playability: -11.10 +- 4.38
+
+----------------Total steps: 95000----------------
+Time passed: 6047s
+TotalScore: 24.76 +- 6.17
+EpLength: 50.00 +- 0.00
+Fun: -3.26 +- 4.72
+Controllability: 37.84 +- 3.34
+Playability: -9.82 +- 4.11
+
+----------------Total steps: 97500----------------
+Time passed: 6212s
+TotalScore: 24.61 +- 7.80
+EpLength: 50.00 +- 0.00
+Fun: -3.23 +- 4.78
+Controllability: 37.82 +- 3.73
+Playability: -9.98 +- 4.63
+
+----------------Total steps: 100000----------------
+Time passed: 6363s
+TotalScore: 24.02 +- 5.97
+EpLength: 50.00 +- 0.00
+Fun: -2.17 +- 2.57
+Controllability: 37.30 +- 3.07
+Playability: -11.12 +- 3.92
+
+----------------Total steps: 102500----------------
+Time passed: 6531s
+TotalScore: 23.15 +- 8.90
+EpLength: 50.00 +- 0.00
+Fun: -3.34 +- 5.63
+Controllability: 37.47 +- 3.11
+Playability: -10.98 +- 4.11
+
+----------------Total steps: 105000----------------
+Time passed: 6686s
+TotalScore: 26.64 +- 7.30
+EpLength: 50.00 +- 0.00
+Fun: -2.35 +- 2.11
+Controllability: 38.03 +- 3.43
+Playability: -9.04 +- 4.39
+
+----------------Total steps: 107500----------------
+Time passed: 6852s
+TotalScore: 24.97 +- 5.91
+EpLength: 50.00 +- 0.00
+Fun: -1.57 +- 1.65
+Controllability: 37.24 +- 2.93
+Playability: -10.70 +- 4.10
+
+----------------Total steps: 110000----------------
+Time passed: 7003s
+TotalScore: 24.20 +- 6.42
+EpLength: 50.00 +- 0.00
+Fun: -1.93 +- 1.67
+Controllability: 37.01 +- 3.48
+Playability: -10.88 +- 4.32
+
+----------------Total steps: 112500----------------
+Time passed: 7174s
+TotalScore: 24.68 +- 6.86
+EpLength: 50.00 +- 0.00
+Fun: -2.34 +- 2.93
+Controllability: 37.28 +- 3.37
+Playability: -10.26 +- 4.16
+
+----------------Total steps: 115000----------------
+Time passed: 7324s
+TotalScore: 26.28 +- 6.24
+EpLength: 50.00 +- 0.00
+Fun: -1.50 +- 1.31
+Controllability: 37.83 +- 3.60
+Playability: -10.04 +- 3.84
+
+----------------Total steps: 117500----------------
+Time passed: 7493s
+TotalScore: 24.85 +- 6.64
+EpLength: 50.00 +- 0.00
+Fun: -2.32 +- 3.08
+Controllability: 37.94 +- 3.17
+Playability: -10.78 +- 5.00
+
+----------------Total steps: 120000----------------
+Time passed: 7646s
+TotalScore: 25.70 +- 7.97
+EpLength: 50.00 +- 0.00
+Fun: -2.99 +- 7.09
+Controllability: 38.27 +- 3.21
+Playability: -9.58 +- 4.11
+
+----------------Total steps: 122500----------------
+Time passed: 7814s
+TotalScore: 25.04 +- 7.72
+EpLength: 50.00 +- 0.00
+Fun: -2.35 +- 4.57
+Controllability: 37.93 +- 3.06
+Playability: -10.54 +- 4.36
+
+----------------Total steps: 125000----------------
+Time passed: 7971s
+TotalScore: 24.78 +- 8.35
+EpLength: 50.00 +- 0.00
+Fun: -2.97 +- 6.01
+Controllability: 37.93 +- 3.41
+Playability: -10.18 +- 4.79
+
+----------------Total steps: 127500----------------
+Time passed: 8141s
+TotalScore: 25.91 +- 5.55
+EpLength: 50.00 +- 0.00
+Fun: -1.32 +- 0.92
+Controllability: 37.89 +- 2.83
+Playability: -10.66 +- 3.96
+
+----------------Total steps: 130000----------------
+Time passed: 8296s
+TotalScore: 27.48 +- 7.87
+EpLength: 50.00 +- 0.00
+Fun: -1.75 +- 2.27
+Controllability: 38.44 +- 3.15
+Playability: -9.20 +- 5.09
+
+----------------Total steps: 132500----------------
+Time passed: 8461s
+TotalScore: 28.24 +- 6.39
+EpLength: 50.00 +- 0.00
+Fun: -1.52 +- 1.41
+Controllability: 38.74 +- 3.00
+Playability: -8.98 +- 4.29
+
+----------------Total steps: 135000----------------
+Time passed: 8612s
+TotalScore: 26.13 +- 6.99
+EpLength: 50.00 +- 0.00
+Fun: -1.85 +- 3.99
+Controllability: 38.22 +- 3.85
+Playability: -10.24 +- 4.37
+
+----------------Total steps: 137500----------------
+Time passed: 8782s
+TotalScore: 28.09 +- 6.43
+EpLength: 50.00 +- 0.00
+Fun: -1.53 +- 1.65
+Controllability: 38.75 +- 2.93
+Playability: -9.12 +- 4.06
+
+----------------Total steps: 140000----------------
+Time passed: 8932s
+TotalScore: 26.19 +- 5.56
+EpLength: 50.00 +- 0.00
+Fun: -1.47 +- 1.65
+Controllability: 38.18 +- 2.81
+Playability: -10.52 +- 3.82
+
+----------------Total steps: 142500----------------
+Time passed: 9099s
+TotalScore: 28.57 +- 6.46
+EpLength: 50.00 +- 0.00
+Fun: -1.63 +- 2.33
+Controllability: 38.92 +- 2.87
+Playability: -8.72 +- 4.52
+
+----------------Total steps: 145000----------------
+Time passed: 9252s
+TotalScore: 27.33 +- 7.18
+EpLength: 50.00 +- 0.00
+Fun: -1.52 +- 2.65
+Controllability: 38.65 +- 3.19
+Playability: -9.80 +- 4.53
+
+----------------Total steps: 147500----------------
+Time passed: 9418s
+TotalScore: 28.05 +- 6.51
+EpLength: 50.00 +- 0.00
+Fun: -1.97 +- 4.17
+Controllability: 38.78 +- 2.78
+Playability: -8.76 +- 3.69
+
+----------------Total steps: 150000----------------
+Time passed: 9574s
+TotalScore: 28.04 +- 6.67
+EpLength: 50.00 +- 0.00
+Fun: -1.26 +- 1.42
+Controllability: 38.58 +- 3.35
+Playability: -9.28 +- 4.17
+
+----------------Total steps: 152500----------------
+Time passed: 9738s
+TotalScore: 26.61 +- 6.36
+EpLength: 50.00 +- 0.00
+Fun: -1.04 +- 0.95
+Controllability: 38.10 +- 2.53
+Playability: -10.44 +- 4.79
+
+----------------Total steps: 155000----------------
+Time passed: 9896s
+TotalScore: 28.85 +- 5.70
+EpLength: 50.00 +- 0.00
+Fun: -1.07 +- 1.01
+Controllability: 38.81 +- 2.56
+Playability: -8.90 +- 4.36
+
+----------------Total steps: 157500----------------
+Time passed: 10067s
+TotalScore: 27.86 +- 5.93
+EpLength: 50.00 +- 0.00
+Fun: -1.02 +- 0.74
+Controllability: 38.54 +- 2.70
+Playability: -9.66 +- 3.96
+
+----------------Total steps: 160000----------------
+Time passed: 10225s
+TotalScore: 27.75 +- 6.25
+EpLength: 50.00 +- 0.00
+Fun: -1.00 +- 0.72
+Controllability: 38.65 +- 2.80
+Playability: -9.90 +- 4.66
+
+----------------Total steps: 162500----------------
+Time passed: 10393s
+TotalScore: 29.44 +- 6.60
+EpLength: 50.00 +- 0.00
+Fun: -1.63 +- 3.85
+Controllability: 39.57 +- 2.70
+Playability: -8.50 +- 4.65
+
+----------------Total steps: 165000----------------
+Time passed: 10553s
+TotalScore: 28.74 +- 6.70
+EpLength: 50.00 +- 0.00
+Fun: -1.09 +- 0.82
+Controllability: 39.45 +- 2.55
+Playability: -9.62 +- 4.72
+
+----------------Total steps: 167500----------------
+Time passed: 10719s
+TotalScore: 28.76 +- 7.53
+EpLength: 50.00 +- 0.00
+Fun: -2.72 +- 5.67
+Controllability: 39.85 +- 2.81
+Playability: -8.36 +- 4.33
+
+----------------Total steps: 170000----------------
+Time passed: 10873s
+TotalScore: 29.56 +- 6.59
+EpLength: 50.00 +- 0.00
+Fun: -1.44 +- 2.00
+Controllability: 39.75 +- 2.34
+Playability: -8.76 +- 4.53
+
+----------------Total steps: 172500----------------
+Time passed: 11038s
+TotalScore: 31.13 +- 6.21
+EpLength: 50.00 +- 0.00
+Fun: -1.31 +- 2.33
+Controllability: 40.09 +- 2.55
+Playability: -7.64 +- 4.11
+
+----------------Total steps: 175000----------------
+Time passed: 11189s
+TotalScore: 29.41 +- 5.57
+EpLength: 50.00 +- 0.00
+Fun: -0.94 +- 0.80
+Controllability: 38.99 +- 3.04
+Playability: -8.64 +- 3.54
+
+----------------Total steps: 177500----------------
+Time passed: 11352s
+TotalScore: 29.49 +- 6.27
+EpLength: 50.00 +- 0.00
+Fun: -1.54 +- 4.62
+Controllability: 39.05 +- 2.89
+Playability: -8.02 +- 3.43
+
+----------------Total steps: 180000----------------
+Time passed: 11504s
+TotalScore: 28.93 +- 5.85
+EpLength: 50.00 +- 0.00
+Fun: -0.90 +- 0.84
+Controllability: 38.65 +- 3.15
+Playability: -8.82 +- 3.85
+
+----------------Total steps: 182500----------------
+Time passed: 11673s
+TotalScore: 30.44 +- 5.27
+EpLength: 50.00 +- 0.00
+Fun: -0.84 +- 0.67
+Controllability: 39.36 +- 2.67
+Playability: -8.08 +- 3.43
+
+----------------Total steps: 185000----------------
+Time passed: 11820s
+TotalScore: 30.26 +- 6.41
+EpLength: 50.00 +- 0.00
+Fun: -0.81 +- 0.72
+Controllability: 39.45 +- 2.59
+Playability: -8.38 +- 4.49
+
+----------------Total steps: 187500----------------
+Time passed: 11990s
+TotalScore: 28.88 +- 5.98
+EpLength: 50.00 +- 0.00
+Fun: -0.87 +- 0.85
+Controllability: 39.01 +- 2.58
+Playability: -9.26 +- 4.23
+
+----------------Total steps: 190000----------------
+Time passed: 12142s
+TotalScore: 31.02 +- 7.40
+EpLength: 50.00 +- 0.00
+Fun: -1.10 +- 1.11
+Controllability: 39.84 +- 3.20
+Playability: -7.72 +- 4.92
+
+----------------Total steps: 192500----------------
+Time passed: 12307s
+TotalScore: 29.73 +- 6.02
+EpLength: 50.00 +- 0.00
+Fun: -0.94 +- 1.03
+Controllability: 38.84 +- 3.00
+Playability: -8.16 +- 3.76
+
+----------------Total steps: 195000----------------
+Time passed: 12458s
+TotalScore: 30.26 +- 6.19
+EpLength: 50.00 +- 0.00
+Fun: -0.63 +- 0.42
+Controllability: 39.67 +- 2.53
+Playability: -8.78 +- 4.59
+
+----------------Total steps: 197500----------------
+Time passed: 12628s
+TotalScore: 27.64 +- 5.21
+EpLength: 50.00 +- 0.00
+Fun: -1.47 +- 3.42
+Controllability: 38.63 +- 2.84
+Playability: -9.52 +- 3.86
+
+----------------Total steps: 200000----------------
+Time passed: 12777s
+TotalScore: 30.89 +- 6.29
+EpLength: 50.00 +- 0.00
+Fun: -0.73 +- 0.65
+Controllability: 39.38 +- 2.78
+Playability: -7.76 +- 4.06
+
+----------------Total steps: 202500----------------
+Time passed: 12943s
+TotalScore: 31.50 +- 5.87
+EpLength: 50.00 +- 0.00
+Fun: -0.86 +- 0.72
+Controllability: 39.68 +- 2.43
+Playability: -7.32 +- 4.38
+
+----------------Total steps: 205000----------------
+Time passed: 13094s
+TotalScore: 30.71 +- 6.18
+EpLength: 50.00 +- 0.00
+Fun: -0.82 +- 0.62
+Controllability: 39.51 +- 2.79
+Playability: -7.98 +- 4.51
+
+----------------Total steps: 207500----------------
+Time passed: 13258s
+TotalScore: 30.36 +- 5.16
+EpLength: 50.00 +- 0.00
+Fun: -0.76 +- 0.58
+Controllability: 39.02 +- 2.44
+Playability: -7.90 +- 3.52
+
+----------------Total steps: 210000----------------
+Time passed: 13401s
+TotalScore: 30.37 +- 5.35
+EpLength: 50.00 +- 0.00
+Fun: -0.65 +- 0.54
+Controllability: 38.77 +- 2.60
+Playability: -7.74 +- 3.84
+
+----------------Total steps: 212500----------------
+Time passed: 13565s
+TotalScore: 31.45 +- 5.14
+EpLength: 50.00 +- 0.00
+Fun: -1.04 +- 1.74
+Controllability: 40.03 +- 2.44
+Playability: -7.54 +- 3.61
+
+----------------Total steps: 215000----------------
+Time passed: 13719s
+TotalScore: 30.81 +- 6.17
+EpLength: 50.00 +- 0.00
+Fun: -0.96 +- 1.39
+Controllability: 39.48 +- 2.85
+Playability: -7.72 +- 4.04
+
+----------------Total steps: 217500----------------
+Time passed: 13882s
+TotalScore: 31.27 +- 4.49
+EpLength: 50.00 +- 0.00
+Fun: -0.84 +- 1.23
+Controllability: 39.61 +- 2.41
+Playability: -7.50 +- 3.10
+
+----------------Total steps: 220000----------------
+Time passed: 14031s
+TotalScore: 31.44 +- 6.37
+EpLength: 50.00 +- 0.00
+Fun: -0.63 +- 0.79
+Controllability: 39.71 +- 2.69
+Playability: -7.64 +- 4.48
+
+----------------Total steps: 222500----------------
+Time passed: 14195s
+TotalScore: 31.46 +- 5.04
+EpLength: 50.00 +- 0.00
+Fun: -0.71 +- 0.73
+Controllability: 39.63 +- 2.52
+Playability: -7.46 +- 3.53
+
+----------------Total steps: 225000----------------
+Time passed: 14343s
+TotalScore: 30.12 +- 5.85
+EpLength: 50.00 +- 0.00
+Fun: -0.75 +- 1.00
+Controllability: 39.25 +- 2.46
+Playability: -8.38 +- 4.18
+
+----------------Total steps: 227500----------------
+Time passed: 14504s
+TotalScore: 32.75 +- 5.62
+EpLength: 50.00 +- 0.00
+Fun: -0.94 +- 1.15
+Controllability: 40.18 +- 2.65
+Playability: -6.48 +- 3.91
+
+----------------Total steps: 230000----------------
+Time passed: 14651s
+TotalScore: 30.80 +- 6.23
+EpLength: 50.00 +- 0.00
+Fun: -0.63 +- 0.55
+Controllability: 39.54 +- 2.20
+Playability: -8.12 +- 4.89
+
+----------------Total steps: 232500----------------
+Time passed: 14811s
+TotalScore: 32.12 +- 5.83
+EpLength: 50.00 +- 0.00
+Fun: -1.11 +- 2.03
+Controllability: 39.81 +- 2.78
+Playability: -6.58 +- 3.78
+
+----------------Total steps: 235000----------------
+Time passed: 14958s
+TotalScore: 32.29 +- 6.20
+EpLength: 50.00 +- 0.00
+Fun: -0.89 +- 1.59
+Controllability: 39.88 +- 2.90
+Playability: -6.70 +- 3.99
+
+----------------Total steps: 237500----------------
+Time passed: 15114s
+TotalScore: 32.87 +- 5.25
+EpLength: 50.00 +- 0.00
+Fun: -0.73 +- 0.58
+Controllability: 39.73 +- 2.33
+Playability: -6.14 +- 3.75
+
+----------------Total steps: 240000----------------
+Time passed: 15268s
+TotalScore: 32.27 +- 5.54
+EpLength: 50.00 +- 0.00
+Fun: -0.65 +- 0.55
+Controllability: 39.54 +- 3.02
+Playability: -6.62 +- 3.35
+
+----------------Total steps: 242500----------------
+Time passed: 15429s
+TotalScore: 33.03 +- 5.20
+EpLength: 50.00 +- 0.00
+Fun: -0.64 +- 0.79
+Controllability: 39.75 +- 2.60
+Playability: -6.08 +- 3.68
+
+----------------Total steps: 245000----------------
+Time passed: 15575s
+TotalScore: 33.17 +- 5.27
+EpLength: 50.00 +- 0.00
+Fun: -0.55 +- 0.62
+Controllability: 40.24 +- 2.33
+Playability: -6.52 +- 3.75
+
+----------------Total steps: 247500----------------
+Time passed: 15742s
+TotalScore: 32.57 +- 6.05
+EpLength: 50.00 +- 0.00
+Fun: -0.50 +- 0.37
+Controllability: 40.15 +- 2.50
+Playability: -7.08 +- 4.08
+
+----------------Total steps: 250000----------------
+Time passed: 15881s
+TotalScore: 31.03 +- 6.48
+EpLength: 50.00 +- 0.00
+Fun: -0.49 +- 0.55
+Controllability: 39.26 +- 2.52
+Playability: -7.74 +- 4.98
+
+----------------Total steps: 252500----------------
+Time passed: 16041s
+TotalScore: 33.56 +- 4.72
+EpLength: 50.00 +- 0.00
+Fun: -0.52 +- 0.51
+Controllability: 39.91 +- 2.22
+Playability: -5.84 +- 3.23
+
+----------------Total steps: 255000----------------
+Time passed: 16183s
+TotalScore: 32.88 +- 5.54
+EpLength: 50.00 +- 0.00
+Fun: -0.69 +- 0.72
+Controllability: 40.13 +- 2.63
+Playability: -6.56 +- 3.74
+
+----------------Total steps: 257500----------------
+Time passed: 16343s
+TotalScore: 32.73 +- 4.83
+EpLength: 50.00 +- 0.00
+Fun: -0.55 +- 0.53
+Controllability: 39.53 +- 2.43
+Playability: -6.24 +- 3.05
+
+----------------Total steps: 260000----------------
+Time passed: 16480s
+TotalScore: 32.97 +- 5.35
+EpLength: 50.00 +- 0.00
+Fun: -0.73 +- 0.97
+Controllability: 39.68 +- 2.52
+Playability: -5.98 +- 3.69
+
+----------------Total steps: 262500----------------
+Time passed: 16635s
+TotalScore: 33.44 +- 4.29
+EpLength: 50.00 +- 0.00
+Fun: -0.64 +- 1.03
+Controllability: 40.10 +- 2.46
+Playability: -6.02 +- 2.93
+
+----------------Total steps: 265000----------------
+Time passed: 16771s
+TotalScore: 34.59 +- 5.33
+EpLength: 50.00 +- 0.00
+Fun: -0.69 +- 0.85
+Controllability: 40.38 +- 2.60
+Playability: -5.10 +- 3.47
+
+----------------Total steps: 267500----------------
+Time passed: 16922s
+TotalScore: 34.02 +- 4.82
+EpLength: 50.00 +- 0.00
+Fun: -0.71 +- 1.03
+Controllability: 40.21 +- 2.29
+Playability: -5.48 +- 3.28
+
+----------------Total steps: 270000----------------
+Time passed: 17060s
+TotalScore: 34.04 +- 5.43
+EpLength: 50.00 +- 0.00
+Fun: -0.55 +- 0.71
+Controllability: 40.48 +- 2.43
+Playability: -5.90 +- 3.66
+
+----------------Total steps: 272500----------------
+Time passed: 17213s
+TotalScore: 33.86 +- 4.78
+EpLength: 50.00 +- 0.00
+Fun: -0.49 +- 0.52
+Controllability: 40.33 +- 2.37
+Playability: -5.98 +- 3.22
+
+----------------Total steps: 275000----------------
+Time passed: 17351s
+TotalScore: 34.75 +- 5.23
+EpLength: 50.00 +- 0.00
+Fun: -0.66 +- 1.16
+Controllability: 40.60 +- 2.57
+Playability: -5.20 +- 3.42
+
+----------------Total steps: 277500----------------
+Time passed: 17509s
+TotalScore: 34.64 +- 4.62
+EpLength: 50.00 +- 0.00
+Fun: -0.48 +- 0.56
+Controllability: 41.03 +- 2.40
+Playability: -5.90 +- 2.96
+
+----------------Total steps: 280000----------------
+Time passed: 17646s
+TotalScore: 33.10 +- 6.13
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.47
+Controllability: 40.02 +- 2.34
+Playability: -6.48 +- 4.81
+
+----------------Total steps: 282500----------------
+Time passed: 17797s
+TotalScore: 34.86 +- 5.23
+EpLength: 50.00 +- 0.00
+Fun: -0.64 +- 1.22
+Controllability: 41.18 +- 1.99
+Playability: -5.68 +- 3.70
+
+----------------Total steps: 285000----------------
+Time passed: 17932s
+TotalScore: 32.68 +- 6.19
+EpLength: 50.00 +- 0.00
+Fun: -0.46 +- 0.42
+Controllability: 39.98 +- 2.21
+Playability: -6.84 +- 4.63
+
+----------------Total steps: 287500----------------
+Time passed: 18078s
+TotalScore: 34.29 +- 5.29
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.40
+Controllability: 40.63 +- 2.06
+Playability: -5.96 +- 3.88
+
+----------------Total steps: 290000----------------
+Time passed: 18219s
+TotalScore: 33.67 +- 5.04
+EpLength: 50.00 +- 0.00
+Fun: -0.48 +- 0.39
+Controllability: 40.61 +- 2.09
+Playability: -6.46 +- 3.77
+
+----------------Total steps: 292500----------------
+Time passed: 18366s
+TotalScore: 35.15 +- 4.54
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.39
+Controllability: 41.03 +- 2.08
+Playability: -5.48 +- 3.26
+
+----------------Total steps: 295000----------------
+Time passed: 18506s
+TotalScore: 34.56 +- 4.94
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.40
+Controllability: 40.53 +- 2.51
+Playability: -5.54 +- 3.18
+
+----------------Total steps: 297500----------------
+Time passed: 18654s
+TotalScore: 34.46 +- 4.91
+EpLength: 50.00 +- 0.00
+Fun: -1.20 +- 3.99
+Controllability: 41.10 +- 2.06
+Playability: -5.44 +- 2.79
+
+----------------Total steps: 300000----------------
+Time passed: 18787s
+TotalScore: 33.90 +- 4.63
+EpLength: 50.00 +- 0.00
+Fun: -0.56 +- 1.13
+Controllability: 40.94 +- 1.93
+Playability: -6.48 +- 3.66
+
+----------------Total steps: 302500----------------
+Time passed: 18923s
+TotalScore: 34.21 +- 4.88
+EpLength: 50.00 +- 0.00
+Fun: -0.52 +- 0.90
+Controllability: 40.61 +- 1.95
+Playability: -5.88 +- 3.71
+
+----------------Total steps: 305000----------------
+Time passed: 19060s
+TotalScore: 35.50 +- 5.16
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.76
+Controllability: 41.23 +- 2.06
+Playability: -5.30 +- 3.56
+
+----------------Total steps: 307500----------------
+Time passed: 19205s
+TotalScore: 35.03 +- 4.84
+EpLength: 50.00 +- 0.00
+Fun: -0.56 +- 1.36
+Controllability: 40.93 +- 1.94
+Playability: -5.34 +- 3.60
+
+----------------Total steps: 310000----------------
+Time passed: 19341s
+TotalScore: 35.26 +- 4.81
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.35
+Controllability: 40.97 +- 2.01
+Playability: -5.30 +- 3.59
+
+----------------Total steps: 312500----------------
+Time passed: 19484s
+TotalScore: 36.88 +- 3.98
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.33
+Controllability: 41.38 +- 1.75
+Playability: -4.12 +- 2.77
+
+----------------Total steps: 315000----------------
+Time passed: 19618s
+TotalScore: 35.23 +- 5.12
+EpLength: 50.00 +- 0.00
+Fun: -0.61 +- 1.81
+Controllability: 41.08 +- 1.93
+Playability: -5.24 +- 3.78
+
+----------------Total steps: 317500----------------
+Time passed: 19760s
+TotalScore: 36.08 +- 4.55
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.73
+Controllability: 41.12 +- 2.05
+Playability: -4.60 +- 3.14
+
+----------------Total steps: 320000----------------
+Time passed: 19893s
+TotalScore: 34.76 +- 5.17
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.28
+Controllability: 40.89 +- 1.90
+Playability: -5.80 +- 3.84
+
+----------------Total steps: 322500----------------
+Time passed: 20034s
+TotalScore: 36.16 +- 4.27
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.34
+Controllability: 41.34 +- 1.81
+Playability: -4.80 +- 3.04
+
+----------------Total steps: 325000----------------
+Time passed: 20162s
+TotalScore: 34.64 +- 5.17
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.53
+Controllability: 41.21 +- 1.97
+Playability: -6.12 +- 3.83
+
+----------------Total steps: 327500----------------
+Time passed: 20306s
+TotalScore: 36.66 +- 4.28
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.35
+Controllability: 41.74 +- 1.89
+Playability: -4.66 +- 3.00
+
+----------------Total steps: 330000----------------
+Time passed: 20431s
+TotalScore: 35.19 +- 3.79
+EpLength: 50.00 +- 0.00
+Fun: -0.59 +- 1.92
+Controllability: 40.94 +- 1.88
+Playability: -5.16 +- 2.53
+
+----------------Total steps: 332500----------------
+Time passed: 20573s
+TotalScore: 36.65 +- 4.42
+EpLength: 50.00 +- 0.00
+Fun: -0.49 +- 0.69
+Controllability: 41.58 +- 1.56
+Playability: -4.44 +- 3.67
+
+----------------Total steps: 335000----------------
+Time passed: 20706s
+TotalScore: 35.03 +- 4.74
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.68
+Controllability: 41.16 +- 1.76
+Playability: -5.72 +- 3.45
+
+----------------Total steps: 337500----------------
+Time passed: 20848s
+TotalScore: 37.21 +- 4.20
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.36
+Controllability: 41.99 +- 1.82
+Playability: -4.38 +- 2.91
+
+----------------Total steps: 340000----------------
+Time passed: 20982s
+TotalScore: 35.96 +- 3.72
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.39
+Controllability: 41.45 +- 1.68
+Playability: -5.10 +- 2.62
+
+----------------Total steps: 342500----------------
+Time passed: 21128s
+TotalScore: 37.00 +- 4.52
+EpLength: 50.00 +- 0.00
+Fun: -0.46 +- 0.53
+Controllability: 42.08 +- 1.76
+Playability: -4.62 +- 3.48
+
+----------------Total steps: 345000----------------
+Time passed: 21258s
+TotalScore: 36.03 +- 4.90
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.23
+Controllability: 41.56 +- 1.81
+Playability: -5.22 +- 3.76
+
+----------------Total steps: 347500----------------
+Time passed: 21393s
+TotalScore: 35.98 +- 4.92
+EpLength: 50.00 +- 0.00
+Fun: -0.75 +- 2.80
+Controllability: 41.43 +- 1.60
+Playability: -4.70 +- 2.77
+
+----------------Total steps: 350000----------------
+Time passed: 21522s
+TotalScore: 35.57 +- 5.04
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.44
+Controllability: 41.66 +- 1.63
+Playability: -5.66 +- 3.94
+
+----------------Total steps: 352500----------------
+Time passed: 21663s
+TotalScore: 35.15 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.49
+Controllability: 41.61 +- 1.45
+Playability: -6.04 +- 3.32
+
+----------------Total steps: 355000----------------
+Time passed: 21792s
+TotalScore: 36.03 +- 4.50
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.54
+Controllability: 41.71 +- 1.46
+Playability: -5.20 +- 3.54
+
+----------------Total steps: 357500----------------
+Time passed: 21935s
+TotalScore: 36.26 +- 5.01
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.53
+Controllability: 42.07 +- 1.74
+Playability: -5.38 +- 3.82
+
+----------------Total steps: 360000----------------
+Time passed: 22065s
+TotalScore: 35.77 +- 4.55
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.34
+Controllability: 41.67 +- 1.63
+Playability: -5.52 +- 3.68
+
+----------------Total steps: 362500----------------
+Time passed: 22213s
+TotalScore: 36.20 +- 4.49
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.37
+Controllability: 42.14 +- 1.86
+Playability: -5.50 +- 3.17
+
+----------------Total steps: 365000----------------
+Time passed: 22339s
+TotalScore: 36.23 +- 4.13
+EpLength: 50.00 +- 0.00
+Fun: -0.46 +- 0.68
+Controllability: 41.75 +- 1.67
+Playability: -5.06 +- 3.38
+
+----------------Total steps: 367500----------------
+Time passed: 22482s
+TotalScore: 37.09 +- 4.33
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.36
+Controllability: 42.22 +- 1.58
+Playability: -4.76 +- 3.17
+
+----------------Total steps: 370000----------------
+Time passed: 22605s
+TotalScore: 37.43 +- 4.68
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.38
+Controllability: 42.35 +- 1.51
+Playability: -4.52 +- 3.61
+
+----------------Total steps: 372500----------------
+Time passed: 22761s
+TotalScore: 38.26 +- 4.03
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.43
+Controllability: 42.50 +- 1.81
+Playability: -3.92 +- 2.78
+
+----------------Total steps: 375000----------------
+Time passed: 22887s
+TotalScore: 36.12 +- 5.16
+EpLength: 50.00 +- 0.00
+Fun: -0.69 +- 2.63
+Controllability: 41.79 +- 1.90
+Playability: -4.98 +- 3.61
+
+----------------Total steps: 377500----------------
+Time passed: 23030s
+TotalScore: 36.23 +- 4.46
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.34
+Controllability: 41.94 +- 1.43
+Playability: -5.28 +- 3.67
+
+----------------Total steps: 380000----------------
+Time passed: 23164s
+TotalScore: 36.10 +- 4.52
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.40
+Controllability: 41.93 +- 1.45
+Playability: -5.44 +- 3.77
+
+----------------Total steps: 382500----------------
+Time passed: 23306s
+TotalScore: 36.11 +- 4.71
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.49
+Controllability: 42.00 +- 1.66
+Playability: -5.44 +- 3.52
+
+----------------Total steps: 385000----------------
+Time passed: 23442s
+TotalScore: 36.80 +- 4.34
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.57
+Controllability: 42.20 +- 1.37
+Playability: -4.98 +- 3.57
+
+----------------Total steps: 387500----------------
+Time passed: 23590s
+TotalScore: 36.71 +- 3.84
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.38
+Controllability: 42.18 +- 1.52
+Playability: -5.00 +- 3.18
+
+----------------Total steps: 390000----------------
+Time passed: 23723s
+TotalScore: 37.14 +- 3.83
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.30
+Controllability: 42.03 +- 1.59
+Playability: -4.52 +- 3.05
+
+----------------Total steps: 392500----------------
+Time passed: 23870s
+TotalScore: 36.77 +- 4.51
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.30
+Controllability: 42.19 +- 1.48
+Playability: -5.02 +- 3.69
+
+----------------Total steps: 395000----------------
+Time passed: 24009s
+TotalScore: 36.15 +- 4.05
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.17
+Controllability: 41.93 +- 1.65
+Playability: -5.48 +- 3.01
+
+----------------Total steps: 397500----------------
+Time passed: 24157s
+TotalScore: 37.01 +- 4.24
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+Controllability: 41.91 +- 1.59
+Playability: -4.56 +- 3.30
+
+----------------Total steps: 400000----------------
+Time passed: 24295s
+TotalScore: 36.42 +- 4.38
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.22
+Controllability: 42.07 +- 1.56
+Playability: -5.34 +- 3.37
+
+----------------Total steps: 402500----------------
+Time passed: 24440s
+TotalScore: 36.03 +- 4.42
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.33
+Controllability: 41.68 +- 1.52
+Playability: -5.34 +- 3.54
+
+----------------Total steps: 405000----------------
+Time passed: 24577s
+TotalScore: 37.03 +- 4.84
+EpLength: 50.00 +- 0.00
+Fun: -0.68 +- 1.86
+Controllability: 42.25 +- 1.71
+Playability: -4.54 +- 3.41
+
+----------------Total steps: 407500----------------
+Time passed: 24726s
+TotalScore: 37.43 +- 4.63
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.27
+Controllability: 42.29 +- 1.53
+Playability: -4.54 +- 3.75
+
+----------------Total steps: 410000----------------
+Time passed: 24862s
+TotalScore: 36.70 +- 3.82
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.35
+Controllability: 41.70 +- 1.51
+Playability: -4.62 +- 2.98
+
+----------------Total steps: 412500----------------
+Time passed: 25015s
+TotalScore: 36.48 +- 4.73
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.24
+Controllability: 41.93 +- 1.50
+Playability: -5.16 +- 3.70
+
+----------------Total steps: 415000----------------
+Time passed: 25148s
+TotalScore: 35.79 +- 4.64
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.24
+Controllability: 41.55 +- 1.53
+Playability: -5.42 +- 3.74
+
+----------------Total steps: 417500----------------
+Time passed: 25295s
+TotalScore: 36.27 +- 4.75
+EpLength: 50.00 +- 0.00
+Fun: -0.51 +- 1.04
+Controllability: 42.06 +- 1.62
+Playability: -5.28 +- 3.61
+
+----------------Total steps: 420000----------------
+Time passed: 25429s
+TotalScore: 36.18 +- 5.00
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.29
+Controllability: 42.13 +- 1.71
+Playability: -5.56 +- 3.96
+
+----------------Total steps: 422500----------------
+Time passed: 25572s
+TotalScore: 35.73 +- 4.69
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.21
+Controllability: 41.82 +- 1.41
+Playability: -5.80 +- 3.75
+
+----------------Total steps: 425000----------------
+Time passed: 25711s
+TotalScore: 36.71 +- 3.61
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.19
+Controllability: 42.12 +- 1.43
+Playability: -5.12 +- 2.91
+
+----------------Total steps: 427500----------------
+Time passed: 25853s
+TotalScore: 35.87 +- 4.30
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.51
+Controllability: 41.78 +- 1.59
+Playability: -5.46 +- 3.43
+
+----------------Total steps: 430000----------------
+Time passed: 25983s
+TotalScore: 35.48 +- 4.50
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.44
+Controllability: 41.69 +- 1.33
+Playability: -5.84 +- 4.03
+
+----------------Total steps: 432500----------------
+Time passed: 26127s
+TotalScore: 36.12 +- 3.81
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.20
+Controllability: 41.37 +- 1.55
+Playability: -4.98 +- 2.78
+
+----------------Total steps: 435000----------------
+Time passed: 26266s
+TotalScore: 37.30 +- 4.10
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.18
+Controllability: 42.28 +- 1.36
+Playability: -4.66 +- 3.37
+
+----------------Total steps: 437500----------------
+Time passed: 26416s
+TotalScore: 35.87 +- 4.26
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+Controllability: 41.64 +- 1.56
+Playability: -5.42 +- 3.65
+
+----------------Total steps: 440000----------------
+Time passed: 26551s
+TotalScore: 37.17 +- 3.52
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.26
+Controllability: 41.93 +- 1.32
+Playability: -4.44 +- 2.87
+
+----------------Total steps: 442500----------------
+Time passed: 26700s
+TotalScore: 36.08 +- 4.20
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.31
+Controllability: 41.81 +- 1.76
+Playability: -5.36 +- 3.11
+
+----------------Total steps: 445000----------------
+Time passed: 26828s
+TotalScore: 36.57 +- 5.21
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.23
+Controllability: 41.98 +- 1.46
+Playability: -5.12 +- 4.39
+
+----------------Total steps: 447500----------------
+Time passed: 26971s
+TotalScore: 35.67 +- 4.79
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.34
+Controllability: 41.90 +- 1.58
+Playability: -5.90 +- 3.87
+
+----------------Total steps: 450000----------------
+Time passed: 27108s
+TotalScore: 37.03 +- 4.01
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.31
+Controllability: 42.24 +- 1.73
+Playability: -4.84 +- 3.06
+
+----------------Total steps: 452500----------------
+Time passed: 27253s
+TotalScore: 36.14 +- 4.48
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.34
+Controllability: 41.92 +- 1.58
+Playability: -5.40 +- 3.49
+
+----------------Total steps: 455000----------------
+Time passed: 27390s
+TotalScore: 37.21 +- 4.15
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.43
+Controllability: 42.24 +- 1.51
+Playability: -4.62 +- 3.20
+
+----------------Total steps: 457500----------------
+Time passed: 27541s
+TotalScore: 37.65 +- 3.37
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.28
+Controllability: 42.44 +- 1.36
+Playability: -4.46 +- 2.60
+
+----------------Total steps: 460000----------------
+Time passed: 27666s
+TotalScore: 36.08 +- 4.58
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.22
+Controllability: 41.84 +- 1.51
+Playability: -5.44 +- 3.59
+
+----------------Total steps: 462500----------------
+Time passed: 27820s
+TotalScore: 37.93 +- 3.64
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.16
+Controllability: 42.68 +- 1.53
+Playability: -4.44 +- 2.71
+
+----------------Total steps: 465000----------------
+Time passed: 27957s
+TotalScore: 38.66 +- 3.71
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.31
+Controllability: 42.50 +- 1.35
+Playability: -3.48 +- 2.81
+
+----------------Total steps: 467500----------------
+Time passed: 28104s
+TotalScore: 36.93 +- 4.16
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.31
+Controllability: 42.13 +- 1.64
+Playability: -4.86 +- 3.03
+
+----------------Total steps: 470000----------------
+Time passed: 28241s
+TotalScore: 38.00 +- 4.12
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.26
+Controllability: 42.47 +- 1.69
+Playability: -4.12 +- 3.11
+
+----------------Total steps: 472500----------------
+Time passed: 28387s
+TotalScore: 37.24 +- 4.85
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.26
+Controllability: 42.38 +- 1.83
+Playability: -4.80 +- 3.74
+
+----------------Total steps: 475000----------------
+Time passed: 28518s
+TotalScore: 37.42 +- 3.93
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.27
+Controllability: 41.91 +- 1.35
+Playability: -4.22 +- 3.07
+
+----------------Total steps: 477500----------------
+Time passed: 28668s
+TotalScore: 36.88 +- 4.57
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.24
+Controllability: 42.50 +- 1.68
+Playability: -5.30 +- 3.41
+
+----------------Total steps: 480000----------------
+Time passed: 28800s
+TotalScore: 38.39 +- 3.72
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.20
+Controllability: 42.64 +- 1.86
+Playability: -3.96 +- 2.59
+
+----------------Total steps: 482500----------------
+Time passed: 28944s
+TotalScore: 37.11 +- 3.62
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.45
+Controllability: 42.07 +- 1.60
+Playability: -4.62 +- 2.62
+
+----------------Total steps: 485000----------------
+Time passed: 29083s
+TotalScore: 37.55 +- 3.80
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.24
+Controllability: 42.44 +- 1.53
+Playability: -4.56 +- 2.99
+
+----------------Total steps: 487500----------------
+Time passed: 29236s
+TotalScore: 37.41 +- 4.07
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.23
+Controllability: 42.35 +- 1.45
+Playability: -4.62 +- 3.29
+
+----------------Total steps: 490000----------------
+Time passed: 29364s
+TotalScore: 36.41 +- 3.87
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.97
+Controllability: 41.92 +- 1.34
+Playability: -5.10 +- 3.01
+
+----------------Total steps: 492500----------------
+Time passed: 29503s
+TotalScore: 36.50 +- 4.04
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.32
+Controllability: 42.05 +- 1.54
+Playability: -5.22 +- 3.23
+
+----------------Total steps: 495000----------------
+Time passed: 29640s
+TotalScore: 38.20 +- 3.31
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.30
+Controllability: 42.59 +- 1.19
+Playability: -4.04 +- 2.75
+
+----------------Total steps: 497500----------------
+Time passed: 29786s
+TotalScore: 38.33 +- 3.89
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.29
+Controllability: 42.58 +- 1.77
+Playability: -3.92 +- 2.74
+
+----------------Total steps: 500000----------------
+Time passed: 29925s
+TotalScore: 37.46 +- 3.41
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.31
+Controllability: 42.28 +- 1.44
+Playability: -4.48 +- 2.65
+
+----------------Total steps: 502500----------------
+Time passed: 30072s
+TotalScore: 38.12 +- 3.66
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.25
+Controllability: 42.52 +- 1.55
+Playability: -4.12 +- 2.65
+
+----------------Total steps: 505000----------------
+Time passed: 30209s
+TotalScore: 38.42 +- 3.85
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 1.05
+Controllability: 42.80 +- 1.46
+Playability: -3.94 +- 2.90
+
+----------------Total steps: 507500----------------
+Time passed: 30356s
+TotalScore: 37.37 +- 3.99
+EpLength: 50.00 +- 0.00
+Fun: -0.44 +- 0.74
+Controllability: 42.37 +- 1.69
+Playability: -4.56 +- 2.90
+
+----------------Total steps: 510000----------------
+Time passed: 30492s
+TotalScore: 38.25 +- 4.04
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.21
+Controllability: 42.63 +- 1.53
+Playability: -4.08 +- 3.05
+
+----------------Total steps: 512500----------------
+Time passed: 30645s
+TotalScore: 38.03 +- 3.58
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.23
+Controllability: 42.93 +- 1.23
+Playability: -4.58 +- 2.68
+
+----------------Total steps: 515000----------------
+Time passed: 30782s
+TotalScore: 37.60 +- 3.62
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.32
+Controllability: 42.77 +- 1.49
+Playability: -4.86 +- 2.78
+
+----------------Total steps: 517500----------------
+Time passed: 30930s
+TotalScore: 37.49 +- 4.00
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.44
+Controllability: 42.73 +- 1.46
+Playability: -4.88 +- 3.22
+
+----------------Total steps: 520000----------------
+Time passed: 31055s
+TotalScore: 36.88 +- 4.24
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.24
+Controllability: 42.38 +- 1.53
+Playability: -5.20 +- 3.31
+
+----------------Total steps: 522500----------------
+Time passed: 31200s
+TotalScore: 37.29 +- 3.97
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.26
+Controllability: 42.59 +- 1.42
+Playability: -4.96 +- 3.12
+
+----------------Total steps: 525000----------------
+Time passed: 31336s
+TotalScore: 37.81 +- 3.74
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.33
+Controllability: 42.49 +- 1.38
+Playability: -4.32 +- 2.94
+
+----------------Total steps: 527500----------------
+Time passed: 31489s
+TotalScore: 37.58 +- 3.99
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.32
+Controllability: 42.75 +- 1.43
+Playability: -4.80 +- 3.07
+
+----------------Total steps: 530000----------------
+Time passed: 31629s
+TotalScore: 38.18 +- 4.12
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.39
+Controllability: 43.02 +- 1.46
+Playability: -4.42 +- 3.34
+
+----------------Total steps: 532500----------------
+Time passed: 31772s
+TotalScore: 37.59 +- 4.51
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.26
+Controllability: 42.61 +- 1.58
+Playability: -4.68 +- 3.43
+
+----------------Total steps: 535000----------------
+Time passed: 31902s
+TotalScore: 37.57 +- 3.22
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.21
+Controllability: 42.42 +- 1.43
+Playability: -4.54 +- 2.58
+
+----------------Total steps: 537500----------------
+Time passed: 32060s
+TotalScore: 38.12 +- 3.49
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.44
+Controllability: 43.09 +- 1.23
+Playability: -4.54 +- 2.63
+
+----------------Total steps: 540000----------------
+Time passed: 32199s
+TotalScore: 37.00 +- 3.75
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.31
+Controllability: 42.34 +- 1.49
+Playability: -4.98 +- 2.86
+
+----------------Total steps: 542500----------------
+Time passed: 32339s
+TotalScore: 37.58 +- 4.18
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.23
+Controllability: 42.56 +- 1.37
+Playability: -4.68 +- 3.35
+
+----------------Total steps: 545000----------------
+Time passed: 32478s
+TotalScore: 38.19 +- 3.57
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.21
+Controllability: 42.83 +- 1.15
+Playability: -4.32 +- 2.90
+
+----------------Total steps: 547500----------------
+Time passed: 32625s
+TotalScore: 38.15 +- 4.46
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.21
+Controllability: 42.78 +- 1.41
+Playability: -4.30 +- 3.61
+
+----------------Total steps: 550000----------------
+Time passed: 32760s
+TotalScore: 37.24 +- 4.16
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.80
+Controllability: 42.56 +- 1.59
+Playability: -4.92 +- 3.24
+
+----------------Total steps: 552500----------------
+Time passed: 32906s
+TotalScore: 37.58 +- 3.76
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.54
+Controllability: 42.68 +- 1.37
+Playability: -4.68 +- 3.13
+
+----------------Total steps: 555000----------------
+Time passed: 33041s
+TotalScore: 38.18 +- 3.92
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.25
+Controllability: 42.87 +- 1.65
+Playability: -4.36 +- 2.90
+
+----------------Total steps: 557500----------------
+Time passed: 33192s
+TotalScore: 38.63 +- 4.44
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.22
+Controllability: 42.99 +- 1.47
+Playability: -4.06 +- 3.66
+
+----------------Total steps: 560000----------------
+Time passed: 33327s
+TotalScore: 37.59 +- 4.13
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.22
+Controllability: 42.54 +- 1.51
+Playability: -4.64 +- 3.17
+
+----------------Total steps: 562500----------------
+Time passed: 33481s
+TotalScore: 38.16 +- 4.09
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.31
+Controllability: 43.09 +- 1.36
+Playability: -4.58 +- 3.23
+
+----------------Total steps: 565000----------------
+Time passed: 33623s
+TotalScore: 37.99 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.50
+Controllability: 43.12 +- 1.49
+Playability: -4.68 +- 3.20
+
+----------------Total steps: 567500----------------
+Time passed: 33773s
+TotalScore: 36.55 +- 4.10
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.29
+Controllability: 42.52 +- 1.47
+Playability: -5.64 +- 3.26
+
+----------------Total steps: 570000----------------
+Time passed: 33904s
+TotalScore: 37.80 +- 3.70
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.36
+Controllability: 42.82 +- 1.15
+Playability: -4.64 +- 3.01
+
+----------------Total steps: 572500----------------
+Time passed: 34052s
+TotalScore: 37.57 +- 3.70
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.36
+Controllability: 42.79 +- 1.40
+Playability: -4.88 +- 2.86
+
+----------------Total steps: 575000----------------
+Time passed: 34192s
+TotalScore: 36.01 +- 5.39
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.34
+Controllability: 42.63 +- 1.53
+Playability: -6.20 +- 4.62
+
+----------------Total steps: 577500----------------
+Time passed: 34338s
+TotalScore: 36.93 +- 4.53
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.21
+Controllability: 42.64 +- 1.40
+Playability: -5.44 +- 3.69
+
+----------------Total steps: 580000----------------
+Time passed: 34468s
+TotalScore: 37.67 +- 3.86
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.38
+Controllability: 42.97 +- 1.35
+Playability: -4.94 +- 3.05
+
+----------------Total steps: 582500----------------
+Time passed: 34622s
+TotalScore: 36.95 +- 4.34
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.26
+Controllability: 42.74 +- 1.38
+Playability: -5.46 +- 3.56
+
+----------------Total steps: 585000----------------
+Time passed: 34759s
+TotalScore: 38.21 +- 3.83
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.23
+Controllability: 43.29 +- 1.24
+Playability: -4.74 +- 2.98
+
+----------------Total steps: 587500----------------
+Time passed: 34916s
+TotalScore: 37.54 +- 4.71
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.39
+Controllability: 42.95 +- 1.37
+Playability: -5.04 +- 3.77
+
+----------------Total steps: 590000----------------
+Time passed: 35051s
+TotalScore: 36.83 +- 4.73
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.28
+Controllability: 42.91 +- 1.44
+Playability: -5.76 +- 3.72
+
+----------------Total steps: 592500----------------
+Time passed: 35200s
+TotalScore: 37.09 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+Controllability: 42.69 +- 1.53
+Playability: -5.24 +- 3.30
+
+----------------Total steps: 595000----------------
+Time passed: 35335s
+TotalScore: 36.63 +- 4.26
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.27
+Controllability: 42.48 +- 1.40
+Playability: -5.54 +- 3.24
+
+----------------Total steps: 597500----------------
+Time passed: 35482s
+TotalScore: 37.73 +- 3.99
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.22
+Controllability: 42.83 +- 1.28
+Playability: -4.82 +- 3.27
+
+----------------Total steps: 600000----------------
+Time passed: 35614s
+TotalScore: 37.76 +- 4.65
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.22
+Controllability: 42.95 +- 1.28
+Playability: -4.84 +- 3.85
+
+----------------Total steps: 602500----------------
+Time passed: 35755s
+TotalScore: 36.89 +- 4.54
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.57
+Controllability: 42.64 +- 1.32
+Playability: -5.38 +- 3.74
+
+----------------Total steps: 605000----------------
+Time passed: 35898s
+TotalScore: 36.73 +- 3.83
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.22
+Controllability: 42.67 +- 1.25
+Playability: -5.60 +- 3.12
+
+----------------Total steps: 607500----------------
+Time passed: 36047s
+TotalScore: 37.20 +- 3.91
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.40
+Controllability: 42.73 +- 1.48
+Playability: -5.12 +- 3.08
+
+----------------Total steps: 610000----------------
+Time passed: 36185s
+TotalScore: 37.38 +- 3.83
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.26
+Controllability: 42.92 +- 1.19
+Playability: -5.22 +- 3.05
+
+----------------Total steps: 612500----------------
+Time passed: 36336s
+TotalScore: 36.72 +- 4.64
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+Controllability: 42.61 +- 1.46
+Playability: -5.54 +- 3.88
+
+----------------Total steps: 615000----------------
+Time passed: 36470s
+TotalScore: 37.05 +- 5.35
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.60
+Controllability: 42.94 +- 1.49
+Playability: -5.44 +- 4.37
+
+----------------Total steps: 617500----------------
+Time passed: 36617s
+TotalScore: 38.04 +- 3.85
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.24
+Controllability: 42.89 +- 1.30
+Playability: -4.50 +- 2.97
+
+----------------Total steps: 620000----------------
+Time passed: 36762s
+TotalScore: 37.80 +- 3.94
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.30
+Controllability: 42.71 +- 1.61
+Playability: -4.56 +- 2.82
+
+----------------Total steps: 622500----------------
+Time passed: 36905s
+TotalScore: 37.01 +- 4.68
+EpLength: 50.00 +- 0.00
+Fun: -0.46 +- 0.95
+Controllability: 42.83 +- 1.46
+Playability: -5.36 +- 3.95
+
+----------------Total steps: 625000----------------
+Time passed: 37038s
+TotalScore: 38.40 +- 4.52
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.24
+Controllability: 42.89 +- 1.45
+Playability: -4.18 +- 3.64
+
+----------------Total steps: 627500----------------
+Time passed: 37183s
+TotalScore: 37.86 +- 4.68
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.31
+Controllability: 42.78 +- 1.54
+Playability: -4.58 +- 3.56
+
+----------------Total steps: 630000----------------
+Time passed: 37318s
+TotalScore: 38.75 +- 3.82
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.32
+Controllability: 43.04 +- 1.31
+Playability: -3.90 +- 3.07
+
+----------------Total steps: 632500----------------
+Time passed: 37464s
+TotalScore: 36.91 +- 4.64
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.30
+Controllability: 42.67 +- 1.42
+Playability: -5.42 +- 3.74
+
+----------------Total steps: 635000----------------
+Time passed: 37598s
+TotalScore: 37.22 +- 4.28
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.40
+Controllability: 42.83 +- 1.48
+Playability: -5.20 +- 3.50
+
+----------------Total steps: 637500----------------
+Time passed: 37746s
+TotalScore: 36.48 +- 4.73
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.42
+Controllability: 42.64 +- 1.26
+Playability: -5.80 +- 4.08
+
+----------------Total steps: 640000----------------
+Time passed: 37885s
+TotalScore: 37.21 +- 4.13
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.41
+Controllability: 42.60 +- 1.50
+Playability: -5.00 +- 3.22
+
+----------------Total steps: 642500----------------
+Time passed: 38025s
+TotalScore: 37.56 +- 4.07
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.44
+Controllability: 42.95 +- 1.33
+Playability: -5.00 +- 3.38
+
+----------------Total steps: 645000----------------
+Time passed: 38159s
+TotalScore: 39.10 +- 3.69
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.17
+Controllability: 43.04 +- 1.47
+Playability: -3.70 +- 2.78
+
+----------------Total steps: 647500----------------
+Time passed: 38304s
+TotalScore: 38.00 +- 5.26
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.21
+Controllability: 43.08 +- 1.50
+Playability: -4.78 +- 4.14
+
+----------------Total steps: 650000----------------
+Time passed: 38434s
+TotalScore: 37.95 +- 4.22
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.37
+Controllability: 42.88 +- 1.41
+Playability: -4.54 +- 3.33
+
+----------------Total steps: 652500----------------
+Time passed: 38582s
+TotalScore: 37.29 +- 3.92
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.35
+Controllability: 42.79 +- 1.19
+Playability: -5.16 +- 3.21
+
+----------------Total steps: 655000----------------
+Time passed: 38720s
+TotalScore: 37.19 +- 4.70
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.79
+Controllability: 42.84 +- 1.41
+Playability: -5.20 +- 3.86
+
+----------------Total steps: 657500----------------
+Time passed: 38866s
+TotalScore: 38.07 +- 3.52
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.27
+Controllability: 42.74 +- 1.15
+Playability: -4.34 +- 2.98
+
+----------------Total steps: 660000----------------
+Time passed: 39001s
+TotalScore: 38.34 +- 4.24
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.27
+Controllability: 43.12 +- 1.29
+Playability: -4.46 +- 3.50
+
+----------------Total steps: 662500----------------
+Time passed: 39148s
+TotalScore: 37.39 +- 4.33
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.44
+Controllability: 42.70 +- 1.38
+Playability: -4.94 +- 3.51
+
+----------------Total steps: 665000----------------
+Time passed: 39284s
+TotalScore: 36.61 +- 5.13
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.23
+Controllability: 42.54 +- 1.48
+Playability: -5.64 +- 4.30
+
+----------------Total steps: 667500----------------
+Time passed: 39432s
+TotalScore: 38.78 +- 4.08
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.25
+Controllability: 43.07 +- 1.41
+Playability: -4.00 +- 3.06
+
+----------------Total steps: 670000----------------
+Time passed: 39568s
+TotalScore: 38.03 +- 3.74
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.40
+Controllability: 42.72 +- 1.55
+Playability: -4.30 +- 2.81
+
+----------------Total steps: 672500----------------
+Time passed: 39715s
+TotalScore: 36.74 +- 4.66
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.35
+Controllability: 42.65 +- 1.34
+Playability: -5.60 +- 3.71
+
+----------------Total steps: 675000----------------
+Time passed: 39847s
+TotalScore: 37.92 +- 4.65
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.29
+Controllability: 42.90 +- 1.36
+Playability: -4.66 +- 3.94
+
+----------------Total steps: 677500----------------
+Time passed: 39994s
+TotalScore: 37.35 +- 4.14
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.27
+Controllability: 42.92 +- 1.20
+Playability: -5.28 +- 3.45
+
+----------------Total steps: 680000----------------
+Time passed: 40127s
+TotalScore: 37.84 +- 3.72
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.35
+Controllability: 42.80 +- 1.49
+Playability: -4.66 +- 3.06
+
+----------------Total steps: 682500----------------
+Time passed: 40272s
+TotalScore: 37.47 +- 4.09
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.22
+Controllability: 42.76 +- 1.50
+Playability: -5.02 +- 3.02
+
+----------------Total steps: 685000----------------
+Time passed: 40404s
+TotalScore: 38.08 +- 4.03
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+Controllability: 42.99 +- 1.44
+Playability: -4.56 +- 3.06
+
+----------------Total steps: 687500----------------
+Time passed: 40549s
+TotalScore: 38.98 +- 3.89
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.54
+Controllability: 43.17 +- 1.42
+Playability: -3.74 +- 3.22
+
+----------------Total steps: 690000----------------
+Time passed: 40680s
+TotalScore: 37.68 +- 4.47
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.21
+Controllability: 42.99 +- 1.12
+Playability: -5.02 +- 3.86
+
+----------------Total steps: 692500----------------
+Time passed: 40826s
+TotalScore: 37.97 +- 4.04
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.28
+Controllability: 43.01 +- 1.16
+Playability: -4.74 +- 3.35
+
+----------------Total steps: 695000----------------
+Time passed: 40954s
+TotalScore: 38.41 +- 4.14
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.18
+Controllability: 43.17 +- 1.29
+Playability: -4.52 +- 3.27
+
+----------------Total steps: 697500----------------
+Time passed: 41092s
+TotalScore: 38.91 +- 4.06
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.23
+Controllability: 43.08 +- 1.41
+Playability: -3.88 +- 3.17
+
+----------------Total steps: 700000----------------
+Time passed: 41222s
+TotalScore: 38.44 +- 3.76
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.28
+Controllability: 43.11 +- 1.30
+Playability: -4.32 +- 3.15
+
+----------------Total steps: 702500----------------
+Time passed: 41362s
+TotalScore: 37.81 +- 4.74
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.31
+Controllability: 42.90 +- 1.37
+Playability: -4.80 +- 3.78
+
+----------------Total steps: 705000----------------
+Time passed: 41494s
+TotalScore: 38.16 +- 4.18
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.23
+Controllability: 43.01 +- 1.36
+Playability: -4.58 +- 3.36
+
+----------------Total steps: 707500----------------
+Time passed: 41639s
+TotalScore: 38.33 +- 3.26
+EpLength: 50.00 +- 0.00
+Fun: -0.45 +- 0.53
+Controllability: 43.00 +- 1.15
+Playability: -4.22 +- 2.71
+
+----------------Total steps: 710000----------------
+Time passed: 41770s
+TotalScore: 38.15 +- 3.88
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.14
+Controllability: 43.18 +- 1.19
+Playability: -4.78 +- 3.18
+
+----------------Total steps: 712500----------------
+Time passed: 41922s
+TotalScore: 37.71 +- 3.79
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.32
+Controllability: 42.86 +- 1.20
+Playability: -4.78 +- 3.00
+
+----------------Total steps: 715000----------------
+Time passed: 42045s
+TotalScore: 37.49 +- 4.68
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.39
+Controllability: 42.97 +- 1.30
+Playability: -5.16 +- 3.75
+
+----------------Total steps: 717500----------------
+Time passed: 42189s
+TotalScore: 38.47 +- 4.04
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.28
+Controllability: 43.12 +- 1.29
+Playability: -4.32 +- 3.25
+
+----------------Total steps: 720000----------------
+Time passed: 42321s
+TotalScore: 39.12 +- 4.16
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.31
+Controllability: 43.23 +- 1.19
+Playability: -3.76 +- 3.41
+
+----------------Total steps: 722500----------------
+Time passed: 42463s
+TotalScore: 38.19 +- 4.65
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.30
+Controllability: 43.18 +- 1.49
+Playability: -4.66 +- 3.67
+
+----------------Total steps: 725000----------------
+Time passed: 42591s
+TotalScore: 37.62 +- 4.44
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.27
+Controllability: 42.89 +- 1.42
+Playability: -5.00 +- 3.50
+
+----------------Total steps: 727500----------------
+Time passed: 42735s
+TotalScore: 37.83 +- 4.73
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.42
+Controllability: 43.02 +- 1.42
+Playability: -4.82 +- 3.73
+
+----------------Total steps: 730000----------------
+Time passed: 42861s
+TotalScore: 37.49 +- 5.33
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.21
+Controllability: 42.87 +- 1.60
+Playability: -5.10 +- 4.30
+
+----------------Total steps: 732500----------------
+Time passed: 43002s
+TotalScore: 38.37 +- 4.88
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.24
+Controllability: 43.10 +- 1.36
+Playability: -4.42 +- 4.01
+
+----------------Total steps: 735000----------------
+Time passed: 43137s
+TotalScore: 38.43 +- 4.08
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.15
+Controllability: 43.24 +- 1.33
+Playability: -4.54 +- 3.20
+
+----------------Total steps: 737500----------------
+Time passed: 43272s
+TotalScore: 37.40 +- 4.73
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.35
+Controllability: 43.00 +- 1.49
+Playability: -5.26 +- 3.80
+
+----------------Total steps: 740000----------------
+Time passed: 43404s
+TotalScore: 38.45 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.26
+Controllability: 43.13 +- 1.22
+Playability: -4.34 +- 3.56
+
+----------------Total steps: 742500----------------
+Time passed: 43547s
+TotalScore: 37.14 +- 5.28
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.29
+Controllability: 42.94 +- 1.31
+Playability: -5.42 +- 4.45
+
+----------------Total steps: 745000----------------
+Time passed: 43677s
+TotalScore: 39.06 +- 4.00
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.15
+Controllability: 43.25 +- 1.32
+Playability: -3.92 +- 3.27
+
+----------------Total steps: 747500----------------
+Time passed: 43821s
+TotalScore: 38.65 +- 3.73
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.26
+Controllability: 43.38 +- 1.09
+Playability: -4.40 +- 3.22
+
+----------------Total steps: 750000----------------
+Time passed: 43948s
+TotalScore: 38.38 +- 3.96
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.34
+Controllability: 43.39 +- 1.40
+Playability: -4.64 +- 3.04
+
+----------------Total steps: 752500----------------
+Time passed: 44089s
+TotalScore: 38.34 +- 4.29
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.26
+Controllability: 43.40 +- 1.32
+Playability: -4.70 +- 3.58
+
+----------------Total steps: 755000----------------
+Time passed: 44218s
+TotalScore: 38.35 +- 4.56
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.39
+Controllability: 43.34 +- 1.02
+Playability: -4.60 +- 3.99
+
+----------------Total steps: 757500----------------
+Time passed: 44352s
+TotalScore: 37.37 +- 4.34
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.18
+Controllability: 42.95 +- 1.19
+Playability: -5.30 +- 3.48
+
+----------------Total steps: 760000----------------
+Time passed: 44480s
+TotalScore: 38.44 +- 3.95
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.24
+Controllability: 43.10 +- 1.32
+Playability: -4.38 +- 3.12
+
+----------------Total steps: 762500----------------
+Time passed: 44626s
+TotalScore: 38.73 +- 3.87
+EpLength: 50.00 +- 0.00
+Fun: -0.40 +- 0.50
+Controllability: 43.53 +- 1.04
+Playability: -4.40 +- 3.33
+
+----------------Total steps: 765000----------------
+Time passed: 44759s
+TotalScore: 37.20 +- 4.36
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.28
+Controllability: 42.92 +- 1.13
+Playability: -5.44 +- 3.90
+
+----------------Total steps: 767500----------------
+Time passed: 44904s
+TotalScore: 37.85 +- 4.69
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.30
+Controllability: 43.17 +- 1.25
+Playability: -5.02 +- 3.94
+
+----------------Total steps: 770000----------------
+Time passed: 45036s
+TotalScore: 38.19 +- 3.80
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.31
+Controllability: 43.37 +- 1.26
+Playability: -4.84 +- 3.06
+
+----------------Total steps: 772500----------------
+Time passed: 45182s
+TotalScore: 37.37 +- 4.67
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.17
+Controllability: 43.32 +- 1.19
+Playability: -5.68 +- 4.11
+
+----------------Total steps: 775000----------------
+Time passed: 45311s
+TotalScore: 37.89 +- 4.48
+EpLength: 50.00 +- 0.00
+Fun: -0.51 +- 1.55
+Controllability: 43.57 +- 0.93
+Playability: -5.16 +- 4.04
+
+----------------Total steps: 777500----------------
+Time passed: 45458s
+TotalScore: 36.69 +- 4.66
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.31
+Controllability: 43.26 +- 1.03
+Playability: -6.24 +- 4.30
+
+----------------Total steps: 780000----------------
+Time passed: 45590s
+TotalScore: 37.33 +- 5.08
+EpLength: 50.00 +- 0.00
+Fun: -0.77 +- 2.70
+Controllability: 43.44 +- 1.08
+Playability: -5.34 +- 4.25
+
+----------------Total steps: 782500----------------
+Time passed: 45735s
+TotalScore: 37.54 +- 4.49
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.39
+Controllability: 43.35 +- 1.09
+Playability: -5.42 +- 3.80
+
+----------------Total steps: 785000----------------
+Time passed: 45867s
+TotalScore: 37.78 +- 4.27
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.47
+Controllability: 43.52 +- 0.92
+Playability: -5.36 +- 3.87
+
+----------------Total steps: 787500----------------
+Time passed: 46009s
+TotalScore: 37.82 +- 4.47
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.24
+Controllability: 43.44 +- 1.17
+Playability: -5.34 +- 3.86
+
+----------------Total steps: 790000----------------
+Time passed: 46134s
+TotalScore: 38.43 +- 4.42
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 0.85
+Controllability: 43.56 +- 1.26
+Playability: -4.66 +- 3.60
+
+----------------Total steps: 792500----------------
+Time passed: 46269s
+TotalScore: 37.29 +- 4.80
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.24
+Controllability: 43.18 +- 1.26
+Playability: -5.62 +- 4.09
+
+----------------Total steps: 795000----------------
+Time passed: 46404s
+TotalScore: 37.64 +- 4.26
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.36
+Controllability: 43.30 +- 1.13
+Playability: -5.34 +- 3.49
+
+----------------Total steps: 797500----------------
+Time passed: 46543s
+TotalScore: 37.25 +- 4.31
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.30
+Controllability: 43.29 +- 1.06
+Playability: -5.74 +- 3.93
+
+----------------Total steps: 800000----------------
+Time passed: 46673s
+TotalScore: 37.62 +- 4.52
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.38
+Controllability: 43.32 +- 1.15
+Playability: -5.34 +- 4.09
+
+----------------Total steps: 802500----------------
+Time passed: 46816s
+TotalScore: 37.88 +- 4.77
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.33
+Controllability: 43.35 +- 1.14
+Playability: -5.16 +- 4.20
+
+----------------Total steps: 805000----------------
+Time passed: 46945s
+TotalScore: 38.00 +- 3.92
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.35
+Controllability: 43.19 +- 1.19
+Playability: -4.82 +- 3.21
+
+----------------Total steps: 807500----------------
+Time passed: 47091s
+TotalScore: 37.05 +- 4.47
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.44
+Controllability: 43.45 +- 1.01
+Playability: -6.04 +- 3.94
+
+----------------Total steps: 810000----------------
+Time passed: 47219s
+TotalScore: 37.11 +- 5.03
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.23
+Controllability: 43.14 +- 1.08
+Playability: -5.78 +- 4.37
+
+----------------Total steps: 812500----------------
+Time passed: 47363s
+TotalScore: 39.04 +- 3.92
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.26
+Controllability: 43.58 +- 1.26
+Playability: -4.22 +- 3.32
+
+----------------Total steps: 815000----------------
+Time passed: 47491s
+TotalScore: 35.93 +- 4.72
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.23
+Controllability: 42.96 +- 1.13
+Playability: -6.74 +- 4.21
+
+----------------Total steps: 817500----------------
+Time passed: 47628s
+TotalScore: 37.71 +- 4.24
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.31
+Controllability: 43.11 +- 1.29
+Playability: -5.04 +- 3.62
+
+----------------Total steps: 820000----------------
+Time passed: 47757s
+TotalScore: 38.39 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.35
+Controllability: 43.30 +- 1.16
+Playability: -4.58 +- 3.41
+
+----------------Total steps: 822500----------------
+Time passed: 47894s
+TotalScore: 36.59 +- 4.24
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.23
+Controllability: 42.99 +- 1.02
+Playability: -6.12 +- 3.84
+
+----------------Total steps: 825000----------------
+Time passed: 48025s
+TotalScore: 38.41 +- 4.03
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.36
+Controllability: 43.32 +- 1.24
+Playability: -4.54 +- 3.26
+
+----------------Total steps: 827500----------------
+Time passed: 48164s
+TotalScore: 37.62 +- 3.68
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.33
+Controllability: 43.30 +- 1.13
+Playability: -5.36 +- 3.19
+
+----------------Total steps: 830000----------------
+Time passed: 48293s
+TotalScore: 38.05 +- 4.04
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.29
+Controllability: 43.13 +- 1.25
+Playability: -4.76 +- 3.38
+
+----------------Total steps: 832500----------------
+Time passed: 48429s
+TotalScore: 37.12 +- 4.82
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.67
+Controllability: 43.00 +- 1.21
+Playability: -5.50 +- 4.09
+
+----------------Total steps: 835000----------------
+Time passed: 48559s
+TotalScore: 38.14 +- 4.16
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.25
+Controllability: 43.20 +- 1.08
+Playability: -4.76 +- 3.41
+
+----------------Total steps: 837500----------------
+Time passed: 48701s
+TotalScore: 38.30 +- 3.73
+EpLength: 50.00 +- 0.00
+Fun: -0.43 +- 0.62
+Controllability: 43.41 +- 1.01
+Playability: -4.68 +- 3.16
+
+----------------Total steps: 840000----------------
+Time passed: 48831s
+TotalScore: 38.52 +- 3.78
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.28
+Controllability: 43.14 +- 1.30
+Playability: -4.34 +- 3.03
+
+----------------Total steps: 842500----------------
+Time passed: 48978s
+TotalScore: 38.06 +- 3.59
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.30
+Controllability: 43.26 +- 1.05
+Playability: -4.88 +- 3.07
+
+----------------Total steps: 845000----------------
+Time passed: 49111s
+TotalScore: 38.39 +- 4.22
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.18
+Controllability: 43.23 +- 1.16
+Playability: -4.56 +- 3.35
+
+----------------Total steps: 847500----------------
+Time passed: 49250s
+TotalScore: 38.89 +- 3.73
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.37
+Controllability: 43.26 +- 1.30
+Playability: -4.02 +- 2.80
+
+----------------Total steps: 850000----------------
+Time passed: 49383s
+TotalScore: 37.31 +- 4.09
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.28
+Controllability: 43.02 +- 1.08
+Playability: -5.40 +- 3.69
+
+----------------Total steps: 852500----------------
+Time passed: 49527s
+TotalScore: 39.22 +- 4.16
+EpLength: 50.00 +- 0.00
+Fun: -0.23 +- 0.12
+Controllability: 43.33 +- 1.09
+Playability: -3.88 +- 3.70
+
+----------------Total steps: 855000----------------
+Time passed: 49659s
+TotalScore: 38.45 +- 3.93
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.25
+Controllability: 43.18 +- 1.33
+Playability: -4.40 +- 3.01
+
+----------------Total steps: 857500----------------
+Time passed: 49805s
+TotalScore: 38.03 +- 3.69
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.39
+Controllability: 43.13 +- 1.14
+Playability: -4.76 +- 3.01
+
+----------------Total steps: 860000----------------
+Time passed: 49932s
+TotalScore: 38.19 +- 4.22
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.31
+Controllability: 43.02 +- 1.23
+Playability: -4.54 +- 3.56
+
+----------------Total steps: 862500----------------
+Time passed: 50068s
+TotalScore: 37.84 +- 4.16
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.39
+Controllability: 42.80 +- 1.60
+Playability: -4.64 +- 2.93
+
+----------------Total steps: 865000----------------
+Time passed: 50198s
+TotalScore: 39.20 +- 3.26
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.21
+Controllability: 43.42 +- 1.13
+Playability: -3.94 +- 2.60
+
+----------------Total steps: 867500----------------
+Time passed: 50348s
+TotalScore: 39.07 +- 3.76
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.18
+Controllability: 43.19 +- 1.24
+Playability: -3.82 +- 2.91
+
+----------------Total steps: 870000----------------
+Time passed: 50478s
+TotalScore: 39.14 +- 3.79
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.27
+Controllability: 43.44 +- 1.23
+Playability: -3.98 +- 3.18
+
+----------------Total steps: 872500----------------
+Time passed: 50621s
+TotalScore: 37.72 +- 4.60
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.36
+Controllability: 43.25 +- 1.30
+Playability: -5.18 +- 3.87
+
+----------------Total steps: 875000----------------
+Time passed: 50755s
+TotalScore: 38.83 +- 4.16
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.33
+Controllability: 43.28 +- 1.36
+Playability: -4.14 +- 3.24
+
+----------------Total steps: 877500----------------
+Time passed: 50897s
+TotalScore: 38.34 +- 4.07
+EpLength: 50.00 +- 0.00
+Fun: -0.36 +- 0.46
+Controllability: 43.36 +- 1.16
+Playability: -4.66 +- 3.48
+
+----------------Total steps: 880000----------------
+Time passed: 51030s
+TotalScore: 38.47 +- 3.49
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.16
+Controllability: 43.21 +- 1.22
+Playability: -4.44 +- 2.79
+
+----------------Total steps: 882500----------------
+Time passed: 51174s
+TotalScore: 38.84 +- 3.86
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.29
+Controllability: 43.31 +- 1.21
+Playability: -4.16 +- 3.04
+
+----------------Total steps: 885000----------------
+Time passed: 51303s
+TotalScore: 38.39 +- 4.35
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.27
+Controllability: 43.06 +- 1.34
+Playability: -4.40 +- 3.41
+
+----------------Total steps: 887500----------------
+Time passed: 51443s
+TotalScore: 39.45 +- 3.33
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.29
+Controllability: 43.25 +- 1.29
+Playability: -3.50 +- 2.68
+
+----------------Total steps: 890000----------------
+Time passed: 51576s
+TotalScore: 38.77 +- 3.71
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.40
+Controllability: 43.21 +- 1.32
+Playability: -4.02 +- 3.01
+
+----------------Total steps: 892500----------------
+Time passed: 51725s
+TotalScore: 38.78 +- 4.34
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.16
+Controllability: 43.55 +- 1.33
+Playability: -4.52 +- 3.50
+
+----------------Total steps: 895000----------------
+Time passed: 51858s
+TotalScore: 37.84 +- 4.00
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.18
+Controllability: 42.97 +- 1.33
+Playability: -4.86 +- 3.21
+
+----------------Total steps: 897500----------------
+Time passed: 51999s
+TotalScore: 37.53 +- 4.33
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.19
+Controllability: 43.15 +- 1.23
+Playability: -5.36 +- 3.75
+
+----------------Total steps: 900000----------------
+Time passed: 52128s
+TotalScore: 38.02 +- 4.38
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.26
+Controllability: 43.29 +- 1.29
+Playability: -4.94 +- 3.67
+
+----------------Total steps: 902500----------------
+Time passed: 52273s
+TotalScore: 38.33 +- 4.01
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.25
+Controllability: 43.07 +- 1.25
+Playability: -4.44 +- 3.31
+
+----------------Total steps: 905000----------------
+Time passed: 52403s
+TotalScore: 39.48 +- 3.78
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.27
+Controllability: 43.56 +- 1.15
+Playability: -3.74 +- 3.06
+
+----------------Total steps: 907500----------------
+Time passed: 52553s
+TotalScore: 39.36 +- 3.36
+EpLength: 50.00 +- 0.00
+Fun: -0.42 +- 0.74
+Controllability: 43.44 +- 1.20
+Playability: -3.66 +- 2.64
+
+----------------Total steps: 910000----------------
+Time passed: 52679s
+TotalScore: 37.62 +- 3.67
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.26
+Controllability: 42.71 +- 1.14
+Playability: -4.80 +- 3.24
+
+----------------Total steps: 912500----------------
+Time passed: 52819s
+TotalScore: 38.81 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.19
+Controllability: 43.32 +- 1.26
+Playability: -4.24 +- 3.17
+
+----------------Total steps: 915000----------------
+Time passed: 52958s
+TotalScore: 38.36 +- 4.04
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.19
+Controllability: 43.19 +- 1.52
+Playability: -4.54 +- 3.04
+
+----------------Total steps: 917500----------------
+Time passed: 53103s
+TotalScore: 39.12 +- 3.50
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.15
+Controllability: 43.46 +- 1.28
+Playability: -4.08 +- 2.68
+
+----------------Total steps: 920000----------------
+Time passed: 53232s
+TotalScore: 37.93 +- 3.67
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.30
+Controllability: 43.05 +- 1.14
+Playability: -4.74 +- 3.47
+
+----------------Total steps: 922500----------------
+Time passed: 53377s
+TotalScore: 38.58 +- 4.08
+EpLength: 50.00 +- 0.00
+Fun: -0.29 +- 0.19
+Controllability: 43.09 +- 1.37
+Playability: -4.22 +- 3.27
+
+----------------Total steps: 925000----------------
+Time passed: 53511s
+TotalScore: 39.11 +- 3.35
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.20
+Controllability: 43.13 +- 1.20
+Playability: -3.72 +- 2.67
+
+----------------Total steps: 927500----------------
+Time passed: 53653s
+TotalScore: 38.85 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.30
+Controllability: 43.11 +- 1.24
+Playability: -3.94 +- 3.47
+
+----------------Total steps: 930000----------------
+Time passed: 53789s
+TotalScore: 38.86 +- 3.10
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.53
+Controllability: 43.26 +- 1.16
+Playability: -4.10 +- 2.58
+
+----------------Total steps: 932500----------------
+Time passed: 53934s
+TotalScore: 38.94 +- 3.89
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.32
+Controllability: 43.15 +- 1.43
+Playability: -3.84 +- 3.00
+
+----------------Total steps: 935000----------------
+Time passed: 54066s
+TotalScore: 39.96 +- 3.45
+EpLength: 50.00 +- 0.00
+Fun: -0.24 +- 0.13
+Controllability: 43.48 +- 1.24
+Playability: -3.28 +- 2.68
+
+----------------Total steps: 937500----------------
+Time passed: 54214s
+TotalScore: 40.01 +- 2.79
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.19
+Controllability: 43.48 +- 1.19
+Playability: -3.18 +- 2.13
+
+----------------Total steps: 940000----------------
+Time passed: 54343s
+TotalScore: 38.52 +- 4.13
+EpLength: 50.00 +- 0.00
+Fun: -0.31 +- 0.39
+Controllability: 43.07 +- 1.30
+Playability: -4.24 +- 3.33
+
+----------------Total steps: 942500----------------
+Time passed: 54481s
+TotalScore: 38.45 +- 3.72
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.21
+Controllability: 43.11 +- 1.37
+Playability: -4.40 +- 3.01
+
+----------------Total steps: 945000----------------
+Time passed: 54613s
+TotalScore: 39.56 +- 3.72
+EpLength: 50.00 +- 0.00
+Fun: -0.35 +- 0.36
+Controllability: 43.25 +- 1.46
+Playability: -3.34 +- 2.82
+
+----------------Total steps: 947500----------------
+Time passed: 54753s
+TotalScore: 39.00 +- 3.85
+EpLength: 50.00 +- 0.00
+Fun: -0.37 +- 0.36
+Controllability: 43.46 +- 1.21
+Playability: -4.08 +- 3.15
+
+----------------Total steps: 950000----------------
+Time passed: 54884s
+TotalScore: 38.95 +- 3.71
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.55
+Controllability: 43.21 +- 1.46
+Playability: -3.94 +- 2.81
+
+----------------Total steps: 952500----------------
+Time passed: 55020s
+TotalScore: 39.97 +- 2.74
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.58
+Controllability: 43.49 +- 1.17
+Playability: -3.14 +- 2.30
+
+----------------Total steps: 955000----------------
+Time passed: 55146s
+TotalScore: 38.98 +- 4.15
+EpLength: 50.00 +- 0.00
+Fun: -0.41 +- 0.43
+Controllability: 43.27 +- 1.52
+Playability: -3.88 +- 3.09
+
+----------------Total steps: 957500----------------
+Time passed: 55282s
+TotalScore: 38.72 +- 3.82
+EpLength: 50.00 +- 0.00
+Fun: -0.25 +- 0.13
+Controllability: 43.07 +- 1.25
+Playability: -4.10 +- 3.02
+
+----------------Total steps: 960000----------------
+Time passed: 55417s
+TotalScore: 39.43 +- 3.73
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.17
+Controllability: 43.41 +- 1.16
+Playability: -3.72 +- 3.17
+
+----------------Total steps: 962500----------------
+Time passed: 55561s
+TotalScore: 39.31 +- 4.28
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.23
+Controllability: 43.24 +- 1.36
+Playability: -3.60 +- 3.35
+
+----------------Total steps: 965000----------------
+Time passed: 55692s
+TotalScore: 39.16 +- 3.57
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.20
+Controllability: 43.16 +- 1.26
+Playability: -3.70 +- 2.90
+
+----------------Total steps: 967500----------------
+Time passed: 55842s
+TotalScore: 39.09 +- 3.47
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.30
+Controllability: 42.88 +- 1.41
+Playability: -3.46 +- 2.81
+
+----------------Total steps: 970000----------------
+Time passed: 55973s
+TotalScore: 39.19 +- 3.41
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.97
+Controllability: 43.24 +- 1.31
+Playability: -3.66 +- 2.64
+
+----------------Total steps: 972500----------------
+Time passed: 56122s
+TotalScore: 39.18 +- 3.12
+EpLength: 50.00 +- 0.00
+Fun: -0.39 +- 0.44
+Controllability: 43.44 +- 1.36
+Playability: -3.86 +- 2.51
+
+----------------Total steps: 975000----------------
+Time passed: 56253s
+TotalScore: 39.59 +- 3.78
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.19
+Controllability: 43.16 +- 1.53
+Playability: -3.30 +- 2.91
+
+----------------Total steps: 977500----------------
+Time passed: 56399s
+TotalScore: 39.40 +- 3.00
+EpLength: 50.00 +- 0.00
+Fun: -0.33 +- 0.26
+Controllability: 43.47 +- 1.24
+Playability: -3.74 +- 2.38
+
+----------------Total steps: 980000----------------
+Time passed: 56523s
+TotalScore: 39.58 +- 3.72
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.34
+Controllability: 43.39 +- 1.35
+Playability: -3.42 +- 2.87
+
+----------------Total steps: 982500----------------
+Time passed: 56658s
+TotalScore: 39.13 +- 3.51
+EpLength: 50.00 +- 0.00
+Fun: -0.30 +- 0.25
+Controllability: 43.23 +- 1.12
+Playability: -3.80 +- 2.73
+
+----------------Total steps: 985000----------------
+Time passed: 56791s
+TotalScore: 38.69 +- 4.02
+EpLength: 50.00 +- 0.00
+Fun: -0.27 +- 0.18
+Controllability: 43.18 +- 1.35
+Playability: -4.22 +- 3.02
+
+----------------Total steps: 987500----------------
+Time passed: 56926s
+TotalScore: 39.30 +- 3.36
+EpLength: 50.00 +- 0.00
+Fun: -0.26 +- 0.16
+Controllability: 43.34 +- 1.22
+Playability: -3.78 +- 2.68
+
+----------------Total steps: 990000----------------
+Time passed: 57055s
+TotalScore: 38.76 +- 3.55
+EpLength: 50.00 +- 0.00
+Fun: -0.28 +- 0.21
+Controllability: 43.21 +- 1.14
+Playability: -4.18 +- 2.96
+
+----------------Total steps: 992500----------------
+Time passed: 57197s
+TotalScore: 39.38 +- 4.11
+EpLength: 50.00 +- 0.00
+Fun: -0.38 +- 0.55
+Controllability: 43.39 +- 1.46
+Playability: -3.64 +- 3.19
+
+----------------Total steps: 995000----------------
+Time passed: 57328s
+TotalScore: 39.20 +- 3.36
+EpLength: 50.00 +- 0.00
+Fun: -0.47 +- 1.12
+Controllability: 43.31 +- 1.28
+Playability: -3.64 +- 2.64
+
+----------------Total steps: 997500----------------
+Time passed: 57467s
+TotalScore: 39.36 +- 3.61
+EpLength: 50.00 +- 0.00
+Fun: -0.32 +- 0.19
+Controllability: 43.35 +- 1.44
+Playability: -3.68 +- 2.68
+
+----------------Total steps: 1000000----------------
+Time passed: 57601s
+TotalScore: 39.30 +- 3.62
+EpLength: 50.00 +- 0.00
+Fun: -0.34 +- 0.34
+Controllability: 43.41 +- 1.39
+Playability: -3.78 +- 2.69
+

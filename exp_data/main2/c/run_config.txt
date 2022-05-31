@@ -1,0 +1,17 @@
+n_envs=5
+max_seg_num=50
+total_steps=1000000
+n_steps=500
+n_epochs=50
+batch_size=100
+gae_lambda=0.85
+gamma=0.7
+device=cuda:0
+log_itv=1
+--------------------------------------------------
+Reward Function {
+	1 * Controllability(
+		diffculty_metric=Naive,
+		diff_range=(0, 1)
+	)
+}
