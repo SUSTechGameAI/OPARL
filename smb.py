@@ -275,11 +275,5 @@ def traverse_level_files(path='levels/train'):
 
 if __name__ == '__main__':
     simulator = MarioProxy()
-    # lvl = MarioLevel.from_txt('levels/flat.txt')
-    # simulator.play_game(lvl)
     lvl = MarioLevel.from_txt('levels/train/mario-1-1.txt')
-    # res = simulator.play_game(lvl)
-    # simulator.save_rep('levels/train/mario-1-1.rep', res['JAgentEvents'])
-    simulator.replay(lvl, 'levels/train/mario-1-1.rep')
-    # simulator.simulate_game(lvl, render=True)
-    # simulator.simulate_game(lvl, MarioJavaAgents.Baumgarten, render=True, fps=30)
+    simulator.play_game(lvl)
