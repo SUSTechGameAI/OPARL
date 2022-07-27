@@ -47,8 +47,8 @@ def get_data():
 def set_parser(parser):
     parser.add_argument('--batch_size', type=int, default=32, help='input batch size')
     parser.add_argument('--niter', type=int, default=10000, help='number of epochs to train for')
-    parser.add_argument('--lr', type=float, default=2e-4, help='learning rate for Critic, default=3e-4')
-    parser.add_argument('--save_path', type=str, default='models', help='')
+    parser.add_argument('--lr', type=float, default=2e-4, help='learning rate, default=3e-4')
+    parser.add_argument('--save_path', type=str, default='models', help='Path to store training data')
 
 def train_cnet(cfgs):
     model = CNet(MarioLevel.num_tile_types)

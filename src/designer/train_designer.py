@@ -19,7 +19,7 @@ from config import archive_len, ctrl_sig_dup
 def set_parser(parser):
     parser.add_argument(
         '--total_steps', type=int, default=int(1e5),
-        help='Total time steps (frames) for training PPO designer.'
+        help='Total time steps (frames) for training SAC designer.'
     )
     parser.add_argument(
         '--n_envs', type=int, default=5,
@@ -27,18 +27,18 @@ def set_parser(parser):
     )
     parser.add_argument(
         '--max_seg_num', type=int, default=50,
-        help='Maximum nubmer of segments to generate in the generation enviroment.'
+        help='Maximum nubmer of segments to generate in one episode'
     )
-    parser.add_argument('--gamma', type=float, default=0.7)
-    parser.add_argument('--tar_entropy', type=float, default=-nz)
-    parser.add_argument('--tau', type=float, default=0.005)
-    parser.add_argument('--update_itv', type=int, default=100)
-    parser.add_argument('--update_repeats', type=int, default=10)
-    parser.add_argument('--batch_size', type=int, default=384)
-    parser.add_argument('--mem_size', type=int, default=int(1e6))
+    parser.add_argument('--gamma', type=float, default=0.7, help='Gamma parameter of RL')
+    parser.add_argument('--tar_entropy', type=float, default=-nz, help='Target entropy parameter of SAC')
+    parser.add_argument('--tau', type=float, default=0.005, help='Tau parameter of SAC')
+    parser.add_argument('--update_itv', type=int, default=100, help='Interval (in unit of time steps) of updating SAC model')
+    parser.add_argument('--update_repeats', type=int, default=10, help='Repeatly update the SAC model for how many times in one update iteration')
+    parser.add_argument('--batch_size', type=int, default=384, help='Batch size of training SAC model')
+    parser.add_argument('--mem_size', type=int, default=int(1e6), help='Capacity of replay memory for SAC training')
     parser.add_argument(
         '--device', type=str, default='cuda:0',
-        help='Device for training the DDPG agent.'
+        help='Device for training the SAC agent.'
     )
     parser.add_argument(
         '--rfunc_name', type=str, default='default',
@@ -50,7 +50,7 @@ def set_parser(parser):
         help='Path relateed to \'/exp_data\'to save the training log. '
              'If not specified, a new folder named exp{id} will be created.'
     )
-    parser.add_argument('--log_itv', type=int, default=100)
+    parser.add_argument('--log_itv', type=int, default=100, help='Interval (in unit of episode) of logging')
     parser.add_argument(
         '--check_points', type=int, nargs='+',
         help='check points to save deisigner, specified by the number of time steps.'
