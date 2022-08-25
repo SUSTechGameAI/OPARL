@@ -9,6 +9,6 @@ if __name__ == '__main__':
     # level = MarioLevel.from_txt('exp_data/main/fp/Ginseng_Baumgarten/lvl17.txt')
     # proxy.simulate_game(level, render=True, fps=30)
     game = MarioOnlineGenGame('exp_data/main/both')
-    game.play(lives=10)
+    game.play(lives=10, music_fname='blended.mp3')
 
 
