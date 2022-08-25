@@ -8,17 +8,17 @@
 #python exp_test.py --designer_path 'exp_data/main/fc'&
 #python exp_test.py --designer_path 'exp_data/main/cp'&
 
-#python exp_test.py --music_name 'Farewell' &
-#python exp_test.py --music_name 'Ginseng' --agent_name 'Sloane' &
-#python exp_test.py --music_name 'Farewell' --agent_name 'Sloane' &
-#python exp_test.py --music_name 'Ginseng' --agent_name 'Hartmann' &
-#python exp_test.py --music_name 'Farewell' --agent_name 'Hartmann' &
-#python exp_test.py --music_name 'Ginseng' --agent_name 'Michal' &
-#python exp_test.py --music_name 'Farewell' --agent_name 'Michal' &
-#python exp_test.py --music_name 'Ginseng' --agent_name 'Polikarpov' &
-#python exp_test.py --music_name 'Farewell' --agent_name 'Polikarpov' &
-#python exp_test.py --music_name 'Ginseng' --agent_name 'Schumann' &
-#python exp_test.py --music_name 'Farewell' --agent_name 'Schumann' ;
+#python exp_test.py --music_fname 'Farewell' &
+#python exp_test.py --music_fname 'Ginseng' --agent_name 'Sloane' &
+#python exp_test.py --music_fname 'Farewell' --agent_name 'Sloane' &
+#python exp_test.py --music_fname 'Ginseng' --agent_name 'Hartmann' &
+#python exp_test.py --music_fname 'Farewell' --agent_name 'Hartmann' &
+#python exp_test.py --music_fname 'Ginseng' --agent_name 'Michal' &
+#python exp_test.py --music_fname 'Farewell' --agent_name 'Michal' &
+#python exp_test.py --music_fname 'Ginseng' --agent_name 'Polikarpov' &
+#python exp_test.py --music_fname 'Farewell' --agent_name 'Polikarpov' &
+#python exp_test.py --music_fname 'Ginseng' --agent_name 'Schumann' &
+#python exp_test.py --music_fname 'Farewell' --agent_name 'Schumann' ;
 
 python rewards_test.py --designer_path 'exp_data/sac/f' --n_parallel 50 --n_trials 100 --no_controllability;
 python rewards_test.py --designer_path 'exp_data/sac/p' --n_parallel 50 --n_trials 100 --no_controllability;

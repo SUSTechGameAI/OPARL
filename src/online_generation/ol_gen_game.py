@@ -6,7 +6,6 @@
 
 import json
 import time
-
 import jpype
 import numpy as np
 import pygame as pg
@@ -14,6 +13,7 @@ import multiprocessing as mp
 from root import PRJROOT
 from config import JVMPath
 from smb import MarioLevel
+from pygame.mixer import music
 # from src.designer.designer import Designer
 # from src.gan.gan_use import get_generator
 # from src.ol_gen.ol_generator import OnlineGenerator
@@ -21,18 +21,22 @@ from src.online_generation.ol_gensys import *
 from src.utils import get_path
 
 
-def _ol_gen_worker(remote, parent_remote):
+def _ol_gen_worker(remote, parent_remote, music_fname):
     parent_remote.close()
     # designer = Designer(f'{d_path}/actor.pth')
     # with open(get_path(f'{d_path}/kwargs.json'), 'r') as f:
     #     n = json.load(f)['hist_len']
     # generator = get_generator() if g_path == '' else get_generator(get_path(g_path))
     # ol_generator = OnlineGenerator(designer, generator, n, g_device)
-    print('start')
-    ol_gensys = OnlineGenerationSystem(
-        AggregatedGenerator('exp_data/sac/fp/actor.pth'),
-        f'assets/blended_diffs.json', True
-    )
+    if len(music_fname):
+        clean_name = ''.join(music_fname.split('.')[:-1])
+        ol_gensys = OnlineGenerationSystem(
+            AggregatedGenerator('exp_data/sac/fcp/actor.pth'),
+            f'assets/online_music/{clean_name}_diffs.json', False
+        )
+    else:
+        ol_gensys = OnlineGenerationSystem(AggregatedGenerator('exp_data/sac/fcp/actor.pth'), None, True)
+
     with open(get_path('assets/start_latvec.json'), 'r') as f:
         z = json.load(f)
     seg = ol_gensys.reset(np.array(z).squeeze())
@@ -65,15 +69,14 @@ class MarioOnlineGenGame:
         self.g_device = g_device
         self.ol_gen_remote, self.process = None, None
 
-    def play(self, agent=None, max_length=20):
-        self.__init_ol_gen_remote()
+    def play(self, agent=None, max_length=20, lives=0, music_fname='blended.mp3'):
+        self.__init_ol_gen_remote(music_fname)
         seg_str = self.ol_gen_remote.recv()
-        print(seg_str)
         # seg_str = str(MarioLevel.from_txt('levels/original/mario-1-1.txt'))
         if agent is None:
-            game = jpype.JClass("MarioOnlineGenGame")(jpype.JString(seg_str))
+            game = jpype.JClass("engine.core.MarioOnlineGenGame")(jpype.JString(seg_str), lives)
         else:
-            game =  jpype.JClass("MarioOnlineGenGame")(
+            game =  jpype.JClass("engine.core.MarioOnlineGenGame")(
                 jpype.JString(seg_str), jpype.JClass(str(agent))(), jpype.JBoolean(True)
             )
         clk = pg.time.Clock()
@@ -82,6 +85,9 @@ class MarioOnlineGenGame:
         # self.ol_gen_remote.send(('step', None))
         # frame_counter = 0
         generating = False
+        pg.mixer.init()
+        music.load(get_path(f'assets/online_music/{music_fname}'))
+        music.play()
         start = time.time()
         while not finish:
             finish = bool(game.gameStep())
@@ -110,12 +116,12 @@ class MarioOnlineGenGame:
     # def test(self, agent, featr):
     #     pass
 
-    def __init_ol_gen_remote(self):
+    def __init_ol_gen_remote(self, music_fname):
         forkserver_available = "forkserver" in mp.get_all_start_methods()
         start_method = "forkserver" if forkserver_available else "spawn"
         ctx = mp.get_context(start_method)
         self.ol_gen_remote, work_remote = ctx.Pipe()
-        args = (work_remote, self.ol_gen_remote)
+        args = (work_remote, self.ol_gen_remote, music_fname)
         self.process = ctx.Process(target=_ol_gen_worker, args=args, daemon=True)
         self.process.start()
 

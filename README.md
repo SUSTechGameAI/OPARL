@@ -19,6 +19,7 @@ Please use this bibtex if you use this repository in your work:
 * Python 3.9.6
 * JPype 1.3.0
 * pygame 2.0.1
+* librosa 0.9.1
 * dtw 1.4.0
 * scipy 1.7.2
 * torch 1.9.0+cu111

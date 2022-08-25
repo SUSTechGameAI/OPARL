@@ -13,7 +13,7 @@ if __name__ == '__main__':
     parser.add_argument('--designer_path', type=str, default='exp_data/sac/fcp')
     parser.add_argument('--n_trials', type=int, default=30)
     parser.add_argument('--disable_ctrl', type=bool, default=False)
-    parser.add_argument('--music_name', type=str, default='Ginseng')
+    parser.add_argument('--music_fname', type=str, default='Ginseng')
     parser.add_argument('--agent_name', type=str, default='Baumgarten')
 
     args = parser.parse_args()
