@@ -200,19 +200,6 @@ class MarioProxy:
             jresult = self.__proxy.playGame(JString(str(level)))
         return MarioProxy.__extract_res(jresult)
 
-    @staticmethod
-    def save_rep(path, JAgentEvents):
-        # tmp = jpype.JClass("agents.replay.ReplayAgent")()
-        print(type(JAgentEvents))
-        jpype.JClass("agents.replay.ReplayUtils").saveReplay(JString(get_path(path)), JAgentEvents)
-
-    def replay(self, level, filepath):
-        # replay_agent = jpype.JClass("agents.replay.ReplayUtils").repAgentFromFile(get_path('levels/train/mario-1-1.rep'))
-        if type(level) == MarioLevel:
-            self.__proxy.replay(JString(str(level)), JString(filepath))
-        else:
-            self.__proxy.replay(JString(level), JString(filepath))
-
     def simulate_game(self,
         level: Union[str, MarioLevel],
         agent: MarioJavaAgents=MarioJavaAgents.Baumgarten,
